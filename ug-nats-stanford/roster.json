@@ -1,0 +1,90 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "UG Nats @ Stanford",
+      "registrations": [
+        {
+          "name": "I buzzed I negged I blamed the question",
+          "teams": [
+            {
+              "name": "I buzzed I negged I blamed the question",
+              "players": [
+                {
+                  "name": "Michał Gerasimiuk"
+                },
+                {
+                  "name": "Shahar Schwartz"
+                },
+                {
+                  "name": "Ankit Aggarwal"
+                },
+                {
+                  "name": "PC Chauhan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "I hope I never see what your face looks like negging",
+          "teams": [
+            {
+              "name": "I hope I never see what your face looks like negging",
+              "players": [
+                {
+                  "name": "Andrew Zeng"
+                },
+                {
+                  "name": "Eric Chen"
+                },
+                {
+                  "name": "Danny Han"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "amoghkulkarni [DOT] debate [AT] gmail [DOT] com",
+          "teams": [
+            {
+              "name": "amoghkulkarni [DOT] debate [AT] gmail [DOT] com",
+              "players": [
+                {
+                  "name": "Richard Niu"
+                },
+                {
+                  "name": "Daniel Hothem"
+                },
+                {
+                  "name": "Anirudh Bharadwaj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Gonna be a few minutes late",
+          "teams": [
+            {
+              "name": "Gonna be a few minutes late",
+              "players": [
+                {
+                  "name": "Stephen Liu"
+                },
+                {
+                  "name": "Allan Lee"
+                },
+                {
+                  "name": "Denis Liu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
