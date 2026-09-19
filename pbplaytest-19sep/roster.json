@@ -1,0 +1,87 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Penn Bowl Playtest (Actual)",
+      "registrations": [
+        {
+          "name": "Mukherjee et al.",
+          "teams": [
+            {
+              "name": "Mukherjee et al.",
+              "players": [
+                {
+                  "name": "Eric Mukherjee"
+                },
+                {
+                  "name": "Erik Christensen"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Siddiqui et al.",
+          "teams": [
+            {
+              "name": "Siddiqui et al.",
+              "players": [
+                {
+                  "name": "Munir Siddiqui"
+                },
+                {
+                  "name": "Connor Mayers"
+                },
+                {
+                  "name": "Eric Bobrow"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "hi",
+          "teams": [
+            {
+              "name": "hi",
+              "players": [
+                {
+                  "name": "Oliver Zhang"
+                },
+                {
+                  "name": "Daniel Merida"
+                },
+                {
+                  "name": "Arjun Vijaykumar"
+                },
+                {
+                  "name": "Vikas Venkat"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Zanzibar Cat Counters",
+          "teams": [
+            {
+              "name": "Zanzibar Cat Counters",
+              "players": [
+                {
+                  "name": "Taylor Harvey"
+                },
+                {
+                  "name": "Eve Fleisig"
+                },
+                {
+                  "name": "Kenji Shimizu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
