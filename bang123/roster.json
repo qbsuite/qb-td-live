@@ -1,0 +1,99 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Test",
+      "registrations": [
+        {
+          "name": "D",
+          "teams": [
+            {
+              "name": "D",
+              "players": [
+                {
+                  "name": "1"
+                },
+                {
+                  "name": "2"
+                },
+                {
+                  "name": "3"
+                },
+                {
+                  "name": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "E",
+          "teams": [
+            {
+              "name": "E",
+              "players": [
+                {
+                  "name": "5"
+                },
+                {
+                  "name": "6"
+                },
+                {
+                  "name": "7"
+                },
+                {
+                  "name": "8"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "F",
+          "teams": [
+            {
+              "name": "F",
+              "players": [
+                {
+                  "name": "9"
+                },
+                {
+                  "name": "10"
+                },
+                {
+                  "name": "11"
+                },
+                {
+                  "name": "12"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "G",
+          "teams": [
+            {
+              "name": "G",
+              "players": [
+                {
+                  "name": "13"
+                },
+                {
+                  "name": "14"
+                },
+                {
+                  "name": "15"
+                },
+                {
+                  "name": "16"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
