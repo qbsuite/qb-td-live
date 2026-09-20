@@ -1,0 +1,43 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "demo",
+      "registrations": [
+        {
+          "name": "Team A",
+          "teams": [
+            {
+              "name": "Team A",
+              "players": [
+                {
+                  "name": "name 1"
+                },
+                {
+                  "name": "name 2"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team B",
+          "teams": [
+            {
+              "name": "Team B",
+              "players": [
+                {
+                  "name": "name 1"
+                },
+                {
+                  "name": "name 2"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
