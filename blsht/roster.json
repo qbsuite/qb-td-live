@@ -1,0 +1,105 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Brian “Lawyer” Steel Honorary Tournament",
+      "registrations": [
+        {
+          "name": "Modestly sized band in Jacksonville",
+          "teams": [
+            {
+              "name": "Modestly sized band in Jacksonville",
+              "players": [
+                {
+                  "name": "Akshar Goyal"
+                },
+                {
+                  "name": "Michael Hunding"
+                },
+                {
+                  "name": "Narita Nazareno"
+                },
+                {
+                  "name": "Adin Mathew"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Buzzed like tiger woods",
+          "teams": [
+            {
+              "name": "Buzzed like tiger woods",
+              "players": [
+                {
+                  "name": "Rian Mathew"
+                },
+                {
+                  "name": "Ayaan Ghori"
+                },
+                {
+                  "name": "Will Lutz"
+                },
+                {
+                  "name": "Jeev Hora"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rack City Scholars",
+          "teams": [
+            {
+              "name": "Rack City Scholars",
+              "players": [
+                {
+                  "name": "Arjun Kala"
+                },
+                {
+                  "name": "Raymond Jiang"
+                },
+                {
+                  "name": "Ameya Bhalerao"
+                },
+                {
+                  "name": "Logan Phillips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "The Other Cavaliers",
+          "teams": [
+            {
+              "name": "The Other Cavaliers",
+              "players": [
+                {
+                  "name": "William Henley"
+                },
+                {
+                  "name": "Sriram Koritala"
+                },
+                {
+                  "name": "Josie Sprang"
+                },
+                {
+                  "name": "Tony Han"
+                },
+                {
+                  "name": "Andrew Kozintsev"
+                },
+                {
+                  "name": "Brian Qian"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
