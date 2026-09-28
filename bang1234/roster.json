@@ -1,0 +1,187 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "test",
+      "registrations": [
+        {
+          "name": "J",
+          "teams": [
+            {
+              "name": "J",
+              "players": [
+                {
+                  "name": "1"
+                },
+                {
+                  "name": "2"
+                },
+                {
+                  "name": "3"
+                },
+                {
+                  "name": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "teams": [
+            {
+              "name": "B",
+              "players": [
+                {
+                  "name": "a"
+                },
+                {
+                  "name": "b"
+                },
+                {
+                  "name": "c"
+                },
+                {
+                  "name": "d"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "teams": [
+            {
+              "name": "C",
+              "players": [
+                {
+                  "name": "qw"
+                },
+                {
+                  "name": "qe"
+                },
+                {
+                  "name": "qr"
+                },
+                {
+                  "name": "qt"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D",
+          "teams": [
+            {
+              "name": "D",
+              "players": [
+                {
+                  "name": "pwe"
+                },
+                {
+                  "name": "asd"
+                },
+                {
+                  "name": "asf"
+                },
+                {
+                  "name": "zxc"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "j",
+          "teams": [
+            {
+              "name": "j",
+              "players": [
+                {
+                  "name": "asdf"
+                },
+                {
+                  "name": "qwer"
+                },
+                {
+                  "name": "asdg"
+                },
+                {
+                  "name": "zxcv"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ff",
+          "teams": [
+            {
+              "name": "ff",
+              "players": [
+                {
+                  "name": "lkj"
+                },
+                {
+                  "name": "oij"
+                },
+                {
+                  "name": "oiy"
+                },
+                {
+                  "name": ",n"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "09809",
+          "teams": [
+            {
+              "name": "09809",
+              "players": [
+                {
+                  "name": "12"
+                },
+                {
+                  "name": "14"
+                },
+                {
+                  "name": "13"
+                },
+                {
+                  "name": "15"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "133",
+          "teams": [
+            {
+              "name": "133",
+              "players": [
+                {
+                  "name": "12312"
+                },
+                {
+                  "name": "12333"
+                },
+                {
+                  "name": "12311"
+                },
+                {
+                  "name": "1231111"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
