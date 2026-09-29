@@ -1,0 +1,55 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "lek",
+      "registrations": [
+        {
+          "name": "1",
+          "teams": [
+            {
+              "name": "1",
+              "players": [
+                {
+                  "name": "1"
+                },
+                {
+                  "name": "2"
+                },
+                {
+                  "name": "3"
+                },
+                {
+                  "name": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "2",
+          "teams": [
+            {
+              "name": "2",
+              "players": [
+                {
+                  "name": "5"
+                },
+                {
+                  "name": "6"
+                },
+                {
+                  "name": "7"
+                },
+                {
+                  "name": "8"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
