@@ -1,0 +1,75 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "asdf",
+      "registrations": [
+        {
+          "name": "Team 1",
+          "teams": [
+            {
+              "name": "Team 1",
+              "players": [
+                {
+                  "name": "Andrew"
+                },
+                {
+                  "name": "Danny"
+                },
+                {
+                  "name": "Eric"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team 2",
+          "teams": [
+            {
+              "name": "Team 2",
+              "players": [
+                {
+                  "name": "Stephen"
+                },
+                {
+                  "name": "Denis"
+                },
+                {
+                  "name": "Allan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team 3",
+          "teams": [
+            {
+              "name": "Team 3",
+              "players": [
+                {
+                  "name": "Bob"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team 4",
+          "teams": [
+            {
+              "name": "Team 4",
+              "players": [
+                {
+                  "name": "John"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
