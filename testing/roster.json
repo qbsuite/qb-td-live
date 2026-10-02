@@ -1,0 +1,55 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Testing",
+      "registrations": [
+        {
+          "name": "Team A",
+          "teams": [
+            {
+              "name": "Team A",
+              "players": [
+                {
+                  "name": "Player A1"
+                },
+                {
+                  "name": "Player A2"
+                },
+                {
+                  "name": "Player A3"
+                },
+                {
+                  "name": "Player A4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team B",
+          "teams": [
+            {
+              "name": "Team B",
+              "players": [
+                {
+                  "name": "Player B1"
+                },
+                {
+                  "name": "Player B2"
+                },
+                {
+                  "name": "Player B3"
+                },
+                {
+                  "name": "Player B4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
