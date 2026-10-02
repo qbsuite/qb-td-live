@@ -48,6 +48,50 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Team C",
+          "teams": [
+            {
+              "name": "Team C",
+              "players": [
+                {
+                  "name": "C1"
+                },
+                {
+                  "name": "C2"
+                },
+                {
+                  "name": "C3"
+                },
+                {
+                  "name": "C4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Team D",
+          "teams": [
+            {
+              "name": "Team D",
+              "players": [
+                {
+                  "name": "D1"
+                },
+                {
+                  "name": "D2"
+                },
+                {
+                  "name": "D3"
+                },
+                {
+                  "name": "D4"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
