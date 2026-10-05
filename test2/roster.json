@@ -1,0 +1,166 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Test",
+      "registrations": [
+        {
+          "name": "SF-ABBA",
+          "teams": [
+            {
+              "name": "SF-ABBA",
+              "players": [
+                {
+                  "name": "Ethan"
+                },
+                {
+                  "name": "Naomi"
+                },
+                {
+                  "name": "Jordan"
+                },
+                {
+                  "name": "Lakela"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-Baby",
+          "teams": [
+            {
+              "name": "SF-Baby",
+              "players": [
+                {
+                  "name": "Isa"
+                },
+                {
+                  "name": "Kier"
+                },
+                {
+                  "name": "Henry"
+                },
+                {
+                  "name": "Eric"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-Cocoa",
+          "teams": [
+            {
+              "name": "SF-Cocoa",
+              "players": [
+                {
+                  "name": "Matthew"
+                },
+                {
+                  "name": "Lise"
+                },
+                {
+                  "name": "George"
+                },
+                {
+                  "name": "Malia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-A",
+          "teams": [
+            {
+              "name": "CF-A",
+              "players": [
+                {
+                  "name": "Dana"
+                },
+                {
+                  "name": "Melissa"
+                },
+                {
+                  "name": "Jim"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-B",
+          "teams": [
+            {
+              "name": "CF-B",
+              "players": [
+                {
+                  "name": "John"
+                },
+                {
+                  "name": "Ringo"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia",
+          "teams": [
+            {
+              "name": "Valencia",
+              "players": [
+                {
+                  "name": "Isabella"
+                },
+                {
+                  "name": "Samantha"
+                },
+                {
+                  "name": "Kai"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ",
+          "teams": [
+            {
+              "name": "FSCJ",
+              "players": [
+                {
+                  "name": "David"
+                },
+                {
+                  "name": "Benny"
+                },
+                {
+                  "name": "Athena"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Broward",
+          "teams": [
+            {
+              "name": "Broward",
+              "players": [
+                {
+                  "name": "Tony"
+                },
+                {
+                  "name": "Jane"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
