@@ -174,13 +174,22 @@
           ]
         },
         {
-          "name": "Gateway",
+          "name": "Florida Gateway College",
           "teams": [
             {
-              "name": "Gateway",
+              "name": "Florida Gateway College",
               "players": [
                 {
-                  "name": "James"
+                  "name": "Baileigh Griffis"
+                },
+                {
+                  "name": "Logan Summers"
+                },
+                {
+                  "name": "Arra Hargraves"
+                },
+                {
+                  "name": "Hayden Benson"
                 }
               ]
             }
