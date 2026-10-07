@@ -6,10 +6,10 @@
       "name": "Test",
       "registrations": [
         {
-          "name": "SF-ABBA",
+          "name": "SF-A",
           "teams": [
             {
-              "name": "SF-ABBA",
+              "name": "SF-A",
               "players": [
                 {
                   "name": "Ethan"
@@ -28,10 +28,10 @@
           ]
         },
         {
-          "name": "SF-Baby",
+          "name": "SF-B",
           "teams": [
             {
-              "name": "SF-Baby",
+              "name": "SF-B",
               "players": [
                 {
                   "name": "Isa"
@@ -50,10 +50,10 @@
           ]
         },
         {
-          "name": "SF-Cocoa",
+          "name": "SF-C",
           "teams": [
             {
-              "name": "SF-Cocoa",
+              "name": "SF-C",
               "players": [
                 {
                   "name": "Matthew"
@@ -63,9 +63,6 @@
                 },
                 {
                   "name": "George"
-                },
-                {
-                  "name": "Malia"
                 }
               ]
             }
