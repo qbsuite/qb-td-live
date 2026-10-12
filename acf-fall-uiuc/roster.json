@@ -1,0 +1,444 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "ACF Fall @ UIUC",
+      "registrations": [
+        {
+          "name": "Purdue A",
+          "teams": [
+            {
+              "name": "Purdue A",
+              "players": [
+                {
+                  "name": "Player 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Purdue B",
+          "teams": [
+            {
+              "name": "Purdue B",
+              "players": [
+                {
+                  "name": "Player 1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Purdue C",
+          "teams": [
+            {
+              "name": "Purdue C",
+              "players": [
+                {
+                  "name": "Player"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Purdue D",
+          "teams": [
+            {
+              "name": "Purdue D",
+              "players": [
+                {
+                  "name": "Player"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Purdue E",
+          "teams": [
+            {
+              "name": "Purdue E",
+              "players": [
+                {
+                  "name": "Player"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UIC A",
+          "teams": [
+            {
+              "name": "UIC A",
+              "players": [
+                {
+                  "name": "Alex Brown"
+                },
+                {
+                  "name": "Osbaldo Porrua"
+                },
+                {
+                  "name": "Skand Parvatikar"
+                },
+                {
+                  "name": "Hari Veginati"
+                },
+                {
+                  "name": "Jakub Ziolko"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Notre Dame A",
+          "teams": [
+            {
+              "name": "Notre Dame A",
+              "players": [
+                {
+                  "name": "Patrick Boyle"
+                },
+                {
+                  "name": "John Augustyn"
+                },
+                {
+                  "name": "Noah McRedmond"
+                },
+                {
+                  "name": "Jonah Hubert"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Notre Dame B",
+          "teams": [
+            {
+              "name": "Notre Dame B",
+              "players": [
+                {
+                  "name": "Max Kolda"
+                },
+                {
+                  "name": "Ben Koberlein"
+                },
+                {
+                  "name": "Erick Olson"
+                },
+                {
+                  "name": "Justin Drees"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Notre Dame C",
+          "teams": [
+            {
+              "name": "Notre Dame C",
+              "players": [
+                {
+                  "name": "Adrian Dooley"
+                },
+                {
+                  "name": "Ethan Brown"
+                },
+                {
+                  "name": "Charlie Doherty"
+                },
+                {
+                  "name": "Bennett Tschoepe"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "University of Iowa A",
+          "teams": [
+            {
+              "name": "University of Iowa A",
+              "players": [
+                {
+                  "name": "Owen Ashbrook"
+                },
+                {
+                  "name": "Ethyn Tallman"
+                },
+                {
+                  "name": "Ellie Lindgren"
+                },
+                {
+                  "name": "Jacob Chaudhry"
+                },
+                {
+                  "name": "Nikolas Vinovich"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Northwestern A",
+          "teams": [
+            {
+              "name": "Northwestern A",
+              "players": [
+                {
+                  "name": "Vikas Kothari"
+                },
+                {
+                  "name": "Arthur Zhang"
+                },
+                {
+                  "name": "Iash Ansari"
+                },
+                {
+                  "name": "Matthew Vidal"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Northwestern B",
+          "teams": [
+            {
+              "name": "Northwestern B",
+              "players": [
+                {
+                  "name": "Max Averbach"
+                },
+                {
+                  "name": "Geoffrey Sias"
+                },
+                {
+                  "name": "Daniel Leung"
+                },
+                {
+                  "name": "William Mann"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Northwestern C",
+          "teams": [
+            {
+              "name": "Northwestern C",
+              "players": [
+                {
+                  "name": "Justin Baebler-Kubler"
+                },
+                {
+                  "name": "Leonardo Zhang"
+                },
+                {
+                  "name": "Graeme Melcher"
+                },
+                {
+                  "name": "Daniel Brenner"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Indiana",
+          "teams": [
+            {
+              "name": "Indiana",
+              "players": [
+                {
+                  "name": "Creek Arthur"
+                },
+                {
+                  "name": "Abhijit Dingari"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicago A",
+          "teams": [
+            {
+              "name": "Chicago A",
+              "players": [
+                {
+                  "name": "Dustin Sanders"
+                },
+                {
+                  "name": "Elliot Florack"
+                },
+                {
+                  "name": "Stefan Bilinski"
+                },
+                {
+                  "name": "Charles Andrews"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicago B",
+          "teams": [
+            {
+              "name": "Chicago B",
+              "players": [
+                {
+                  "name": "Eric Parrilla"
+                },
+                {
+                  "name": "Samuel Lipsutz"
+                },
+                {
+                  "name": "Hazel Garvon"
+                },
+                {
+                  "name": "Sarah Owolabi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicago C",
+          "teams": [
+            {
+              "name": "Chicago C",
+              "players": [
+                {
+                  "name": "Cyrus Serafi"
+                },
+                {
+                  "name": "Eric Lipsutz"
+                },
+                {
+                  "name": "Anya Narayan"
+                },
+                {
+                  "name": "Oliver Darmawan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicago D",
+          "teams": [
+            {
+              "name": "Chicago D",
+              "players": [
+                {
+                  "name": "Benjamin Nallengara"
+                },
+                {
+                  "name": "Andy Lui"
+                },
+                {
+                  "name": "Ethan O'Hara"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Illinois A",
+          "teams": [
+            {
+              "name": "Illinois A",
+              "players": [
+                {
+                  "name": "Brian Qian"
+                },
+                {
+                  "name": "Monit"
+                },
+                {
+                  "name": "William Henley"
+                },
+                {
+                  "name": "Harish Lolla"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Illinois B",
+          "teams": [
+            {
+              "name": "Illinois B",
+              "players": [
+                {
+                  "name": "Samarth Majmudar"
+                },
+                {
+                  "name": "Will Lutz"
+                },
+                {
+                  "name": "Sriram Koritala"
+                },
+                {
+                  "name": "Anila Moparthi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Illinois C",
+          "teams": [
+            {
+              "name": "Illinois C",
+              "players": [
+                {
+                  "name": "Andrew Kozintsev"
+                },
+                {
+                  "name": "Narita"
+                },
+                {
+                  "name": "Adin"
+                },
+                {
+                  "name": "Logan Philips"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Illinois D",
+          "teams": [
+            {
+              "name": "Illinois D",
+              "players": [
+                {
+                  "name": "Tony Han"
+                },
+                {
+                  "name": "Alex"
+                },
+                {
+                  "name": "Jeev Hora"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
