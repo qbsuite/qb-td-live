@@ -12,7 +12,16 @@
               "name": "Purdue A",
               "players": [
                 {
-                  "name": "Player 1"
+                  "name": "Sophia Madrazo"
+                },
+                {
+                  "name": "David Nickel"
+                },
+                {
+                  "name": "Matthew Westley"
+                },
+                {
+                  "name": "Eric Yang"
                 }
               ]
             }
@@ -25,7 +34,16 @@
               "name": "Purdue B",
               "players": [
                 {
-                  "name": "Player 1"
+                  "name": "Ryan Sharp"
+                },
+                {
+                  "name": "Zane Vatter"
+                },
+                {
+                  "name": "Misty Chen"
+                },
+                {
+                  "name": "Kavin Narayanan"
                 }
               ]
             }
@@ -38,7 +56,16 @@
               "name": "Purdue C",
               "players": [
                 {
-                  "name": "Player"
+                  "name": "David Thomas"
+                },
+                {
+                  "name": "Ethan Enochian"
+                },
+                {
+                  "name": "Rohan Manroa"
+                },
+                {
+                  "name": "Hayden Willett"
                 }
               ]
             }
@@ -51,7 +78,16 @@
               "name": "Purdue D",
               "players": [
                 {
-                  "name": "Player"
+                  "name": "Arthur Zhang"
+                },
+                {
+                  "name": "James Windle"
+                },
+                {
+                  "name": "Raphael Sailer"
+                },
+                {
+                  "name": "Austin Doyle"
                 }
               ]
             }
@@ -64,7 +100,13 @@
               "name": "Purdue E",
               "players": [
                 {
-                  "name": "Player"
+                  "name": "Andres Lopez Gonzalez"
+                },
+                {
+                  "name": "Eugene Kim"
+                },
+                {
+                  "name": "Hunt Boyle"
                 }
               ]
             }
@@ -156,6 +198,9 @@
                 },
                 {
                   "name": "Bennett Tschoepe"
+                },
+                {
+                  "name": "Brendan Frank"
                 }
               ]
             }
