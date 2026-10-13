@@ -122,16 +122,26 @@
                   "name": "Alex Brown"
                 },
                 {
-                  "name": "Osbaldo Porrua"
-                },
-                {
                   "name": "Skand Parvatikar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UIC B",
+          "teams": [
+            {
+              "name": "UIC B",
+              "players": [
+                {
+                  "name": "Osbaldo Porrua"
                 },
                 {
                   "name": "Hari Veginati"
                 },
                 {
-                  "name": "Jakub Ziolko"
+                  "name": "Harvey Albers"
                 }
               ]
             }
@@ -478,6 +488,9 @@
                 },
                 {
                   "name": "Jeev Hora"
+                },
+                {
+                  "name": "Josie Sprang"
                 }
               ]
             }
