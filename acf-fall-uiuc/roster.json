@@ -4,6 +4,10 @@
     {
       "type": "Tournament",
       "name": "ACF Fall @ UIUC",
+      "YfData": {
+        "trackUG": true,
+        "trackDiv2": true
+      },
       "registrations": [
         {
           "name": "Purdue A",
@@ -12,7 +16,11 @@
               "name": "Purdue A",
               "players": [
                 {
-                  "name": "Sophia Madrazo"
+                  "name": "Sophia Madrazo",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
                   "name": "David Nickel"
@@ -21,7 +29,11 @@
                   "name": "Matthew Westley"
                 },
                 {
-                  "name": "Eric Yang"
+                  "name": "Eric Yang",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 }
               ]
             }
@@ -32,18 +44,38 @@
           "teams": [
             {
               "name": "Purdue B",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Ryan Sharp"
+                  "name": "Ryan Sharp",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Zane Vatter"
+                  "name": "Zane Vatter",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Misty Chen"
+                  "name": "Misty Chen",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Kavin Narayanan"
+                  "name": "Kavin Narayanan",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -54,18 +86,38 @@
           "teams": [
             {
               "name": "Purdue C",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "David Thomas"
+                  "name": "David Thomas",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Ethan Enochian"
+                  "name": "Ethan Enochian",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Rohan Manroa"
+                  "name": "Rohan Manroa",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Hayden Willett"
+                  "name": "Hayden Willett",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 }
               ]
             }
@@ -76,18 +128,38 @@
           "teams": [
             {
               "name": "Purdue D",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Arthur Zhang"
+                  "name": "Arthur Zhang",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "James Windle"
+                  "name": "James Windle",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Raphael Sailer"
+                  "name": "Raphael Sailer",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Austin Doyle"
+                  "name": "Austin Doyle",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -98,15 +170,31 @@
           "teams": [
             {
               "name": "Purdue E",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Andres Lopez Gonzalez"
+                  "name": "Andres Lopez Gonzalez",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Eugene Kim"
+                  "name": "Eugene Kim",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Hunt Boyle"
+                  "name": "Hunt Boyle",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -133,15 +221,31 @@
           "teams": [
             {
               "name": "UIC B",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Osbaldo Porrua"
+                  "name": "Osbaldo Porrua",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Hari Veginati"
+                  "name": "Hari Veginati",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Harvey Albers"
+                  "name": "Harvey Albers",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 }
               ]
             }
@@ -152,18 +256,38 @@
           "teams": [
             {
               "name": "Notre Dame A",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Patrick Boyle"
+                  "name": "Patrick Boyle",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "John Augustyn"
+                  "name": "John Augustyn",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Noah McRedmond"
+                  "name": "Noah McRedmond",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Jonah Hubert"
+                  "name": "Jonah Hubert",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 }
               ]
             }
@@ -174,18 +298,38 @@
           "teams": [
             {
               "name": "Notre Dame B",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Max Kolda"
+                  "name": "Max Kolda",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Ben Koberlein"
+                  "name": "Ben Koberlein",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Erick Olson"
+                  "name": "Erick Olson",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Justin Drees"
+                  "name": "Justin Drees",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -196,21 +340,38 @@
           "teams": [
             {
               "name": "Notre Dame C",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Adrian Dooley"
+                  "name": "Adrian Dooley",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Ethan Brown"
+                  "name": "Ethan Brown",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Charlie Doherty"
+                  "name": "Charlie Doherty",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Bennett Tschoepe"
-                },
-                {
-                  "name": "Brendan Frank"
+                  "name": "Bennett Tschoepe",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -221,21 +382,45 @@
           "teams": [
             {
               "name": "University of Iowa A",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Owen Ashbrook"
+                  "name": "Owen Ashbrook",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Ethyn Tallman"
+                  "name": "Ethyn Tallman",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Ellie Lindgren"
+                  "name": "Ellie Lindgren",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Jacob Chaudhry"
+                  "name": "Jacob Chaudhry",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Nikolas Vinovich"
+                  "name": "Nikolas Vinovich",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 }
               ]
             }
@@ -246,18 +431,38 @@
           "teams": [
             {
               "name": "Northwestern A",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Vikas Kothari"
+                  "name": "Vikas Kothari",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Arthur Zhang"
+                  "name": "Arthur Zhang",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Iash Ansari"
+                  "name": "Iash Ansari",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Matthew Vidal"
+                  "name": "Matthew Vidal",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -268,18 +473,38 @@
           "teams": [
             {
               "name": "Northwestern B",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Max Averbach"
+                  "name": "Max Averbach",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Geoffrey Sias"
+                  "name": "Geoffrey Sias",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Daniel Leung"
+                  "name": "Daniel Leung",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "William Mann"
+                  "name": "William Mann",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -290,18 +515,38 @@
           "teams": [
             {
               "name": "Northwestern C",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Justin Baebler-Kubler"
+                  "name": "Justin Baebler-Kubler",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Leonardo Zhang"
+                  "name": "Leonardo Zhang",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Graeme Melcher"
+                  "name": "Graeme Melcher",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Daniel Brenner"
+                  "name": "Daniel Brenner",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -317,7 +562,11 @@
                   "name": "Creek Arthur"
                 },
                 {
-                  "name": "Abhijit Dingari"
+                  "name": "Abhijit Dingari",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -328,18 +577,38 @@
           "teams": [
             {
               "name": "Chicago A",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Dustin Sanders"
+                  "name": "Dustin Sanders",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Elliot Florack"
+                  "name": "Elliot Florack",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Stefan Bilinski"
+                  "name": "Stefan Bilinski",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Charles Andrews"
+                  "name": "Charles Andrews",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -350,18 +619,38 @@
           "teams": [
             {
               "name": "Chicago B",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Eric Parrilla"
+                  "name": "Eric Parrilla",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Samuel Lipsutz"
+                  "name": "Samuel Lipsutz",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Hazel Garvon"
+                  "name": "Hazel Garvon",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Sarah Owolabi"
+                  "name": "Sarah Owolabi",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -372,18 +661,38 @@
           "teams": [
             {
               "name": "Chicago C",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Cyrus Serafi"
+                  "name": "Cyrus Serafi",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Eric Lipsutz"
+                  "name": "Eric Lipsutz",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Anya Narayan"
+                  "name": "Anya Narayan",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Oliver Darmawan"
+                  "name": "Oliver Darmawan",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -394,15 +703,31 @@
           "teams": [
             {
               "name": "Chicago D",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Benjamin Nallengara"
+                  "name": "Benjamin Nallengara",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Andy Lui"
+                  "name": "Andy Lui",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Ethan O'Hara"
+                  "name": "Ethan O'Hara",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -413,18 +738,38 @@
           "teams": [
             {
               "name": "Illinois A",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Brian Qian"
+                  "name": "Brian Qian",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Monit Karmakar"
+                  "name": "Monit Karmakar",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "William Henley"
+                  "name": "William Henley",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Harish Lolla"
+                  "name": "Harish Lolla",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
@@ -435,18 +780,38 @@
           "teams": [
             {
               "name": "Illinois B",
+              "YfData": {
+                "isUG": true,
+                "isD2": false
+              },
               "players": [
                 {
-                  "name": "Samarth Majmudar"
+                  "name": "Samarth Majmudar",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Will Lutz"
+                  "name": "Will Lutz",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Sriram Koritala"
+                  "name": "Sriram Koritala",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 },
                 {
-                  "name": "Anila Moparthi"
+                  "name": "Anila Moparthi",
+                  "YfData": {
+                    "isUG": true,
+                    "isD2": false
+                  }
                 }
               ]
             }
@@ -479,18 +844,38 @@
           "teams": [
             {
               "name": "Illinois D",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
-                  "name": "Tony Han"
+                  "name": "Tony Han",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Alex Zamenoff"
+                  "name": "Alex Zamenoff",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Jeev Hora"
+                  "name": "Jeev Hora",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 },
                 {
-                  "name": "Josie Sprang"
+                  "name": "Josie Sprang",
+                  "YfData": {
+                    "isUG": false,
+                    "isD2": true
+                  }
                 }
               ]
             }
