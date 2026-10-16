@@ -284,6 +284,19 @@
               ]
             }
           ]
+        },
+        {
+          "name": "team14",
+          "teams": [
+            {
+              "name": "team14",
+              "players": [
+                {
+                  "name": "Clete"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
