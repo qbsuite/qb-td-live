@@ -1,0 +1,269 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "SF Fall 2026",
+      "registrations": [
+        {
+          "name": "Valencia-Red",
+          "teams": [
+            {
+              "name": "Valencia-Red",
+              "players": [
+                {
+                  "name": "Isabella"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Florida Gateway College",
+          "teams": [
+            {
+              "name": "Florida Gateway College",
+              "players": [
+                {
+                  "name": "Baileigh Griffis"
+                },
+                {
+                  "name": "Logan Summers"
+                },
+                {
+                  "name": "Arra Hargraves"
+                },
+                {
+                  "name": "Hayden Benson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-B",
+          "teams": [
+            {
+              "name": "FSCJ-B",
+              "players": [
+                {
+                  "name": "Zebulun Bardwell"
+                },
+                {
+                  "name": "Adia Thomas"
+                },
+                {
+                  "name": "Zoe Chua"
+                },
+                {
+                  "name": "Rebecca Elie"
+                },
+                {
+                  "name": "Lily Everson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-A",
+          "teams": [
+            {
+              "name": "CF-A",
+              "players": [
+                {
+                  "name": "Sarah Levy"
+                },
+                {
+                  "name": "Ryan San"
+                },
+                {
+                  "name": "Ben Barner"
+                },
+                {
+                  "name": "Nicholas Pini"
+                },
+                {
+                  "name": "Max Kuykendall"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-A",
+          "teams": [
+            {
+              "name": "SF-A",
+              "players": [
+                {
+                  "name": "Isabela Caicedo"
+                },
+                {
+                  "name": "Kier Teves"
+                },
+                {
+                  "name": "Eric Porter"
+                },
+                {
+                  "name": "Lisa Ye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-A",
+          "teams": [
+            {
+              "name": "FSCJ-A",
+              "players": [
+                {
+                  "name": "Isabel Nix"
+                },
+                {
+                  "name": "Zierna Garcia"
+                },
+                {
+                  "name": "Tara Fisher"
+                },
+                {
+                  "name": "Jonah Terrebonne"
+                },
+                {
+                  "name": "Olivia Henry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-C",
+          "teams": [
+            {
+              "name": "FSCJ-C",
+              "players": [
+                {
+                  "name": "Malachi Ingram"
+                },
+                {
+                  "name": "Lillian Hernandez"
+                },
+                {
+                  "name": "Amadou Seck"
+                },
+                {
+                  "name": "Noah Mauer"
+                },
+                {
+                  "name": "Dharma Wade"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia-Black",
+          "teams": [
+            {
+              "name": "Valencia-Black",
+              "players": [
+                {
+                  "name": "Clete"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-B",
+          "teams": [
+            {
+              "name": "SF-B",
+              "players": [
+                {
+                  "name": "Ethan Hobbs"
+                },
+                {
+                  "name": "George Cloutier"
+                },
+                {
+                  "name": "Lakela DeAngelis"
+                },
+                {
+                  "name": "Enzo Carrascosa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-C",
+          "teams": [
+            {
+              "name": "SF-C",
+              "players": [
+                {
+                  "name": "Matthew Hennig"
+                },
+                {
+                  "name": "Henry Weber"
+                },
+                {
+                  "name": "Malia Griffin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Broward",
+          "teams": [
+            {
+              "name": "Broward",
+              "players": [
+                {
+                  "name": "Lucas Blackburn"
+                },
+                {
+                  "name": "Jose Luna"
+                },
+                {
+                  "name": "Chayenne Edwards"
+                },
+                {
+                  "name": "Sofia Ouanter"
+                },
+                {
+                  "name": "Khian Reed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-B",
+          "teams": [
+            {
+              "name": "CF-B",
+              "players": [
+                {
+                  "name": "Adrianna Gonzalez"
+                },
+                {
+                  "name": "Chanel Xie"
+                },
+                {
+                  "name": "Destiny Branger"
+                },
+                {
+                  "name": "Sean Walsh"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
