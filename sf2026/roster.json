@@ -198,6 +198,28 @@
           ]
         },
         {
+          "name": "Tallahassee State",
+          "teams": [
+            {
+              "name": "Tallahassee State",
+              "players": [
+                {
+                  "name": "Annabeth Norris"
+                },
+                {
+                  "name": "Gabriel Dejkunchorn"
+                },
+                {
+                  "name": "Caile Harden"
+                },
+                {
+                  "name": "Ian Faletti"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "SF-C",
           "teams": [
             {
