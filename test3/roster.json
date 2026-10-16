@@ -160,6 +160,32 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Clete",
+          "teams": [
+            {
+              "name": "Clete",
+              "players": [
+                {
+                  "name": "CLete"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Jeremy",
+          "teams": [
+            {
+              "name": "Jeremy",
+              "players": [
+                {
+                  "name": "Jeremy"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
