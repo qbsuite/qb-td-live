@@ -28,6 +28,25 @@
           ]
         },
         {
+          "name": "CF-Fuchsia",
+          "teams": [
+            {
+              "name": "CF-Fuchsia",
+              "players": [
+                {
+                  "name": "Chanel Xie"
+                },
+                {
+                  "name": "Destiny Branger"
+                },
+                {
+                  "name": "Sean Walsh"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Florida Gateway College",
           "teams": [
             {
@@ -69,31 +88,6 @@
                 },
                 {
                   "name": "Lily Everson"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "CF-A",
-          "teams": [
-            {
-              "name": "CF-A",
-              "players": [
-                {
-                  "name": "Sarah Levy"
-                },
-                {
-                  "name": "Ryan San"
-                },
-                {
-                  "name": "Ben Barner"
-                },
-                {
-                  "name": "Nicholas Pini"
-                },
-                {
-                  "name": "Max Kuykendall"
                 }
               ]
             }
@@ -282,35 +276,38 @@
           ]
         },
         {
-          "name": "CF-B",
+          "name": "CF-Mauve",
           "teams": [
             {
-              "name": "CF-B",
+              "name": "CF-Mauve",
               "players": [
+                {
+                  "name": "Nicholas Pini"
+                },
                 {
                   "name": "Adrianna Gonzalez"
                 },
                 {
-                  "name": "Chanel Xie"
-                },
-                {
-                  "name": "Destiny Branger"
-                },
-                {
-                  "name": "Sean Walsh"
+                  "name": "Ryan San"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Valencia Gold",
+          "name": "CF-Puce",
           "teams": [
             {
-              "name": "Valencia Gold",
+              "name": "CF-Puce",
               "players": [
                 {
-                  "name": "Clete Reinberger"
+                  "name": "Max Kuykendall"
+                },
+                {
+                  "name": "Ben Barner"
+                },
+                {
+                  "name": "Sarah Levy"
                 }
               ]
             }
