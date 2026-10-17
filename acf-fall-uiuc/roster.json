@@ -666,11 +666,14 @@
                   }
                 },
                 {
-                  "name": "Andy Lui",
+                  "name": "Andy Liu",
                   "YfData": {
                     "isUG": false,
                     "isD2": true
-                  }
+                  },
+                  "_formerNames": [
+                    "Andy Lui"
+                  ]
                 }
               ]
             }
