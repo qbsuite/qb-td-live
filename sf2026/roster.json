@@ -302,19 +302,6 @@
               ]
             }
           ]
-        },
-        {
-          "name": "Bye team",
-          "teams": [
-            {
-              "name": "Bye team",
-              "players": [
-                {
-                  "name": "Clete"
-                }
-              ]
-            }
-          ]
         }
       ]
     }
