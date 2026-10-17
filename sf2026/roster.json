@@ -12,7 +12,16 @@
               "name": "Valencia-Red",
               "players": [
                 {
-                  "name": "Isabella"
+                  "name": "Keira Mackinnon"
+                },
+                {
+                  "name": "Samantha Norman"
+                },
+                {
+                  "name": "Mukta Bhuskute"
+                },
+                {
+                  "name": "Kyla Bigham"
                 }
               ]
             }
@@ -169,7 +178,16 @@
               "name": "Valencia-Black",
               "players": [
                 {
-                  "name": "Clete"
+                  "name": "Lexi David"
+                },
+                {
+                  "name": "Ariana Andujar"
+                },
+                {
+                  "name": "Reyna Martinez"
+                },
+                {
+                  "name": "Lani Drake"
                 }
               ]
             }
