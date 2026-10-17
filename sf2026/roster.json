@@ -75,9 +75,6 @@
               "name": "FSCJ-B",
               "players": [
                 {
-                  "name": "Zebulun Bardwell"
-                },
-                {
                   "name": "Adia Thomas"
                 },
                 {
@@ -87,7 +84,54 @@
                   "name": "Rebecca Elie"
                 },
                 {
+                  "name": "Zierna Garcia"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-A",
+          "teams": [
+            {
+              "name": "FSCJ-A",
+              "players": [
+                {
+                  "name": "Isabel Nix"
+                },
+                {
                   "name": "Lily Everson"
+                },
+                {
+                  "name": "Tara Fisher"
+                },
+                {
+                  "name": "Jonah Terrebonne"
+                },
+                {
+                  "name": "Olivia Henry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-C",
+          "teams": [
+            {
+              "name": "FSCJ-C",
+              "players": [
+                {
+                  "name": "Lillian Hernandez"
+                },
+                {
+                  "name": "Amadou Seck"
+                },
+                {
+                  "name": "Noah Mauer"
+                },
+                {
+                  "name": "Dharma Wade"
                 }
               ]
             }
@@ -110,56 +154,6 @@
                 },
                 {
                   "name": "Lisa Ye"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "FSCJ-A",
-          "teams": [
-            {
-              "name": "FSCJ-A",
-              "players": [
-                {
-                  "name": "Isabel Nix"
-                },
-                {
-                  "name": "Zierna Garcia"
-                },
-                {
-                  "name": "Tara Fisher"
-                },
-                {
-                  "name": "Jonah Terrebonne"
-                },
-                {
-                  "name": "Olivia Henry"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "FSCJ-C",
-          "teams": [
-            {
-              "name": "FSCJ-C",
-              "players": [
-                {
-                  "name": "Malachi Ingram"
-                },
-                {
-                  "name": "Lillian Hernandez"
-                },
-                {
-                  "name": "Amadou Seck"
-                },
-                {
-                  "name": "Noah Mauer"
-                },
-                {
-                  "name": "Dharma Wade"
                 }
               ]
             }
