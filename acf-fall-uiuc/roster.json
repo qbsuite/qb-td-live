@@ -451,17 +451,10 @@
                   }
                 },
                 {
-                  "name": "Iash Ansari",
+                  "name": "Isah Ansari",
                   "YfData": {
                     "isUG": true,
                     "isD2": false
-                  }
-                },
-                {
-                  "name": "Matthew Vidal",
-                  "YfData": {
-                    "isUG": false,
-                    "isD2": true
                   }
                 }
               ]
@@ -473,37 +466,29 @@
           "teams": [
             {
               "name": "Northwestern B",
-              "YfData": {
-                "isUG": false,
-                "isD2": true
-              },
               "players": [
                 {
-                  "name": "Max Averbach",
+                  "name": "Courtney Tam",
                   "YfData": {
-                    "isUG": false,
-                    "isD2": true
+                    "isUG": true,
+                    "isD2": false
                   }
                 },
                 {
-                  "name": "Geoffrey Sias",
+                  "name": "Graeme Melcher",
                   "YfData": {
-                    "isUG": false,
-                    "isD2": true
+                    "isUG": true,
+                    "isD2": false
                   }
                 },
                 {
-                  "name": "Daniel Leung",
-                  "YfData": {
-                    "isUG": false,
-                    "isD2": true
-                  }
+                  "name": "Vivian Lu"
                 },
                 {
                   "name": "William Mann",
                   "YfData": {
-                    "isUG": false,
-                    "isD2": true
+                    "isUG": true,
+                    "isD2": false
                   }
                 }
               ]
@@ -521,7 +506,7 @@
               },
               "players": [
                 {
-                  "name": "Justin Baebler-Kubler",
+                  "name": "Daniel Leung",
                   "YfData": {
                     "isUG": false,
                     "isD2": true
@@ -535,14 +520,14 @@
                   }
                 },
                 {
-                  "name": "Graeme Melcher",
+                  "name": "Geoffrey Sias",
                   "YfData": {
                     "isUG": false,
                     "isD2": true
                   }
                 },
                 {
-                  "name": "Daniel Brenner",
+                  "name": "Matthew Vidal",
                   "YfData": {
                     "isUG": false,
                     "isD2": true
