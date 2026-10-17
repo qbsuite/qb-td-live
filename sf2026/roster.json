@@ -302,6 +302,19 @@
               ]
             }
           ]
+        },
+        {
+          "name": "Valencia Gold",
+          "teams": [
+            {
+              "name": "Valencia Gold",
+              "players": [
+                {
+                  "name": "Clete Reinberger"
+                }
+              ]
+            }
+          ]
         }
       ]
     }
