@@ -236,15 +236,15 @@
                 {
                   "name": "Hari Veginati",
                   "YfData": {
-                    "isUG": true,
-                    "isD2": false
+                    "isUG": false,
+                    "isD2": true
                   }
                 },
                 {
                   "name": "Harvey Albers",
                   "YfData": {
-                    "isUG": true,
-                    "isD2": false
+                    "isUG": false,
+                    "isD2": true
                   }
                 }
               ]
