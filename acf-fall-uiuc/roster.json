@@ -578,8 +578,8 @@
             {
               "name": "Chicago A",
               "YfData": {
-                "isUG": false,
-                "isD2": true
+                "isUG": true,
+                "isD2": false
               },
               "players": [
                 {
@@ -592,8 +592,8 @@
                 {
                   "name": "Elliot Florack",
                   "YfData": {
-                    "isUG": false,
-                    "isD2": true
+                    "isUG": true,
+                    "isD2": false
                   }
                 },
                 {
@@ -619,6 +619,10 @@
           "teams": [
             {
               "name": "Chicago B",
+              "YfData": {
+                "isUG": false,
+                "isD2": true
+              },
               "players": [
                 {
                   "name": "Samuel Lipsutz",
@@ -640,9 +644,6 @@
                     "isUG": false,
                     "isD2": true
                   }
-                },
-                {
-                  "name": "Cyrus Serafi"
                 }
               ]
             }
