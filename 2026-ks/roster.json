@@ -1,0 +1,128 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "2026 KS tournament",
+      "registrations": [
+        {
+          "name": "SF-A",
+          "teams": [
+            {
+              "name": "SF-A",
+              "players": [
+                {
+                  "name": "Matthew Hennig"
+                },
+                {
+                  "name": "Henry Weber"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-B",
+          "teams": [
+            {
+              "name": "SF-B",
+              "players": [
+                {
+                  "name": "Isabela Caicedo"
+                },
+                {
+                  "name": "Erik Porter"
+                },
+                {
+                  "name": "Kier Teves"
+                },
+                {
+                  "name": "Lisa Ye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-C",
+          "teams": [
+            {
+              "name": "SF-C",
+              "players": [
+                {
+                  "name": "Ethan Hobbs"
+                },
+                {
+                  "name": "George Cloutier"
+                },
+                {
+                  "name": "Lakela DeAngelis"
+                },
+                {
+                  "name": "Enzo Carrascosa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-Mauve",
+          "teams": [
+            {
+              "name": "CF-Mauve",
+              "players": [
+                {
+                  "name": "Nicholas Pini"
+                },
+                {
+                  "name": "Arianna Gonzalez"
+                },
+                {
+                  "name": "Ryan San"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-Puce",
+          "teams": [
+            {
+              "name": "CF-Puce",
+              "players": [
+                {
+                  "name": "Ben Barner"
+                },
+                {
+                  "name": "Max Kuykendall"
+                },
+                {
+                  "name": "Caspian Cameron"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF-Fuschia",
+          "teams": [
+            {
+              "name": "CF-Fuschia",
+              "players": [
+                {
+                  "name": "Chanel Xie"
+                },
+                {
+                  "name": "Sarah Levy"
+                },
+                {
+                  "name": "Destiny Branger"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
