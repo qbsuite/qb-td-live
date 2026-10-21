@@ -1,0 +1,98 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "2026 Penn Bowl at Stanford",
+      "registrations": [
+        {
+          "name": "Stanford A",
+          "teams": [
+            {
+              "name": "Stanford A",
+              "players": [
+                {
+                  "name": "Michał Gerasimiuk"
+                },
+                {
+                  "name": "Nathan Zhang"
+                },
+                {
+                  "name": "Ethan Bosita"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stanford B",
+          "teams": [
+            {
+              "name": "Stanford B",
+              "players": [
+                {
+                  "name": "Ada Huang"
+                },
+                {
+                  "name": "Shaphnah Mckinzie"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Berkeley",
+          "teams": [
+            {
+              "name": "Berkeley",
+              "players": [
+                {
+                  "name": "Swapnil Garg"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Open 1",
+          "teams": [
+            {
+              "name": "Open 1",
+              "players": [
+                {
+                  "name": "Richard Niu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Open 2",
+          "teams": [
+            {
+              "name": "Open 2",
+              "players": [
+                {
+                  "name": "Daniel Hothem"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Open 3",
+          "teams": [
+            {
+              "name": "Open 3",
+              "players": [
+                {
+                  "name": "Stephen Liu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
