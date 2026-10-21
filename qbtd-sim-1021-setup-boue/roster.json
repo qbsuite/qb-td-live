@@ -1,0 +1,105 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "qb-td sim 10-21 setup (ignore)",
+      "registrations": [
+        {
+          "name": "Sim Alpha",
+          "teams": [
+            {
+              "name": "Sim Alpha",
+              "players": [
+                {
+                  "name": "A1"
+                },
+                {
+                  "name": "A2"
+                },
+                {
+                  "name": "A3"
+                },
+                {
+                  "name": "A44",
+                  "_formerNames": [
+                    "A4"
+                  ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sim Bravo",
+          "teams": [
+            {
+              "name": "Sim Bravo",
+              "players": [
+                {
+                  "name": "B1"
+                },
+                {
+                  "name": "B9"
+                },
+                {
+                  "name": "B2"
+                },
+                {
+                  "name": "B3"
+                },
+                {
+                  "name": "B4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sim Charlie",
+          "teams": [
+            {
+              "name": "Sim Charlie",
+              "players": [
+                {
+                  "name": "C1"
+                },
+                {
+                  "name": "C2"
+                },
+                {
+                  "name": "C3"
+                },
+                {
+                  "name": "C4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sim <img src=x onerror=window.__pwn=1> \"Q\"",
+          "teams": [
+            {
+              "name": "Sim <img src=x onerror=window.__pwn=1> \"Q\"",
+              "players": [
+                {
+                  "name": "X1"
+                },
+                {
+                  "name": "X2"
+                },
+                {
+                  "name": "X3"
+                },
+                {
+                  "name": "X4"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
