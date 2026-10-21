@@ -3,16 +3,13 @@
   "objects": [
     {
       "type": "Tournament",
-      "name": "qb-td sim 10-21 (ignore)",
+      "name": "qb-td sim 10-21 setup (ignore)",
       "registrations": [
         {
-          "name": "Sim Alpha Prime",
+          "name": "Sim Alpha",
           "teams": [
             {
-              "name": "Sim Alpha Prime",
-              "_formerNames": [
-                "Sim Alpha"
-              ],
+              "name": "Sim Alpha",
               "players": [
                 {
                   "name": "A1"
@@ -24,7 +21,10 @@
                   "name": "A3"
                 },
                 {
-                  "name": "A4"
+                  "name": "A44",
+                  "_formerNames": [
+                    "A4"
+                  ]
                 }
               ]
             }
@@ -38,6 +38,9 @@
               "players": [
                 {
                   "name": "B1"
+                },
+                {
+                  "name": "B9"
                 },
                 {
                   "name": "B2"
@@ -75,22 +78,22 @@
           ]
         },
         {
-          "name": "Sim Delta",
+          "name": "Sim <img src=x onerror=window.__pwn=1> \"Q\"",
           "teams": [
             {
-              "name": "Sim Delta",
+              "name": "Sim <img src=x onerror=window.__pwn=1> \"Q\"",
               "players": [
                 {
-                  "name": "D1"
+                  "name": "X1"
                 },
                 {
-                  "name": "D2"
+                  "name": "X2"
                 },
                 {
-                  "name": "D3"
+                  "name": "X3"
                 },
                 {
-                  "name": "D4"
+                  "name": "X4"
                 }
               ]
             }
