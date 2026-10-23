@@ -1,0 +1,140 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "SoCal Penn Bowl",
+      "registrations": [
+        {
+          "name": "Empty Chairs",
+          "teams": [
+            {
+              "name": "Empty Chairs",
+              "players": [
+                {
+                  "name": "Abhinav Rachakonda"
+                },
+                {
+                  "name": "Annika Larson"
+                },
+                {
+                  "name": "Akshay Seetharam"
+                },
+                {
+                  "name": "Terrence Han"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "in MARCH 7TH (2026) Gary Lin takes an already BPAMAXXING team and NEGS on a level that is fricking sublime",
+          "teams": [
+            {
+              "name": "in MARCH 7TH (2026) Gary Lin takes an already BPAMAXXING team and NEGS on a level that is fricking sublime",
+              "players": [
+                {
+                  "name": "Hrishit Chaudhuri"
+                },
+                {
+                  "name": "Alex Bellon"
+                },
+                {
+                  "name": "Sumukh Murthy"
+                },
+                {
+                  "name": "Gary Lin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "What if we spelled \"people\" like this: peepole",
+          "teams": [
+            {
+              "name": "What if we spelled \"people\" like this: peepole",
+              "players": [
+                {
+                  "name": "Jason Cheng"
+                },
+                {
+                  "name": "Anderson Wang"
+                },
+                {
+                  "name": "Klaus Llwynog"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UCLA A",
+          "teams": [
+            {
+              "name": "UCLA A",
+              "players": [
+                {
+                  "name": "Jaskaran Singh"
+                },
+                {
+                  "name": "Karthik Jayaram"
+                },
+                {
+                  "name": "Josh Xu"
+                },
+                {
+                  "name": "Kaiwen Xiao"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "UCLA B",
+          "teams": [
+            {
+              "name": "UCLA B",
+              "players": [
+                {
+                  "name": "Rahul Jogadhenu"
+                },
+                {
+                  "name": "Andrew Nucci"
+                },
+                {
+                  "name": "Nikola Wu"
+                },
+                {
+                  "name": "Gugan Thuduppathy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Axiom La Jolla S37",
+          "teams": [
+            {
+              "name": "Axiom La Jolla S37",
+              "players": [
+                {
+                  "name": "March Delfin"
+                },
+                {
+                  "name": "Ethan Ririe"
+                },
+                {
+                  "name": "Palak Maheshwari"
+                },
+                {
+                  "name": "Kerry Xu"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
