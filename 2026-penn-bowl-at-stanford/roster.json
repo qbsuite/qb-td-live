@@ -125,10 +125,13 @@
           ]
         },
         {
-          "name": "Open 3",
+          "name": "Kelly Clarkson X Molly",
           "teams": [
             {
-              "name": "Open 3",
+              "name": "Kelly Clarkson X Molly",
+              "_formerNames": [
+                "Open 3"
+              ],
               "players": [
                 {
                   "name": "Stephen Liu"
