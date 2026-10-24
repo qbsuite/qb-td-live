@@ -18,23 +18,35 @@
                   "name": "Nathan Zhang"
                 },
                 {
-                  "name": "Ethan Bosita"
+                  "name": "Khang Le",
+                  "_formerNames": [
+                    "Ethan Bosita"
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "name": "Stanford B",
+          "name": "PennPineappleApplePenn",
           "teams": [
             {
-              "name": "Stanford B",
+              "name": "PennPineappleApplePenn",
+              "_formerNames": [
+                "Stanford B"
+              ],
               "players": [
                 {
                   "name": "Ada Huang"
                 },
                 {
                   "name": "Shaphnah Mckinzie"
+                },
+                {
+                  "name": "Ankit Aggarwal"
+                },
+                {
+                  "name": "Ethan Bosita"
                 }
               ]
             }
@@ -48,32 +60,65 @@
               "players": [
                 {
                   "name": "Swapnil Garg"
+                },
+                {
+                  "name": "Vinu Harihar"
+                },
+                {
+                  "name": "Suren Grigorian"
+                },
+                {
+                  "name": "Lucas Chi"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Open 1",
+          "name": "aeiou",
           "teams": [
             {
-              "name": "Open 1",
+              "name": "aeiou",
+              "_formerNames": [
+                "Open 1"
+              ],
               "players": [
                 {
                   "name": "Richard Niu"
+                },
+                {
+                  "name": "Anirudh Bharadwaj"
+                },
+                {
+                  "name": "Luke Robitaille"
+                },
+                {
+                  "name": "Jonathan Huang"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Open 2",
+          "name": "Klaxon Klaxoff",
           "teams": [
             {
-              "name": "Open 2",
+              "name": "Klaxon Klaxoff",
+              "_formerNames": [
+                "Open 2"
+              ],
               "players": [
                 {
                   "name": "Daniel Hothem"
+                },
+                {
+                  "name": "Rahul Keyal"
+                },
+                {
+                  "name": "Anuttam Ramji"
+                },
+                {
+                  "name": "Eric Chen"
                 }
               ]
             }
@@ -87,6 +132,12 @@
               "players": [
                 {
                   "name": "Stephen Liu"
+                },
+                {
+                  "name": "Dennis Sun"
+                },
+                {
+                  "name": "Kyle Sutherlin"
                 }
               ]
             }
