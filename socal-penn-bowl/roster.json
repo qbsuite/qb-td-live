@@ -62,7 +62,13 @@
                   "name": "Anderson Wang"
                 },
                 {
-                  "name": "Klaus Llwynog"
+                  "name": "the fool",
+                  "_formerNames": [
+                    "Klaus Llwynog"
+                  ]
+                },
+                {
+                  "name": "Leon Zhou"
                 }
               ]
             }
