@@ -66,28 +66,6 @@
           ]
         },
         {
-          "name": "Valencia Red",
-          "teams": [
-            {
-              "name": "Valencia Red",
-              "players": [
-                {
-                  "name": "Clete Reinberger",
-                  "_formerNames": [
-                    "Samantha Norman"
-                  ]
-                },
-                {
-                  "name": "Heloisa Carneiro",
-                  "_formerNames": [
-                    "Keira Mackinnon"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "CF Guelphs",
           "teams": [
             {
@@ -101,28 +79,6 @@
                 },
                 {
                   "name": "Adrianna Gonzalez"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Valencia Black",
-          "teams": [
-            {
-              "name": "Valencia Black",
-              "players": [
-                {
-                  "name": "Lexi David"
-                },
-                {
-                  "name": "Lani Drake"
-                },
-                {
-                  "name": "Mukta Bhuskute",
-                  "_formerNames": [
-                    "Reyna Martinez"
-                  ]
                 }
               ]
             }
@@ -271,6 +227,56 @@
                 },
                 {
                   "name": "Lisa Ye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia Red",
+          "teams": [
+            {
+              "name": "Valencia Red",
+              "players": [
+                {
+                  "name": "Clete Reinberger",
+                  "_formerNames": [
+                    "Samantha Norman"
+                  ]
+                },
+                {
+                  "name": "Heloisa Carneiro",
+                  "_formerNames": [
+                    "Keira Mackinnon"
+                  ]
+                },
+                {
+                  "name": "Samantha Norman"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia Black",
+          "teams": [
+            {
+              "name": "Valencia Black",
+              "players": [
+                {
+                  "name": "Lexi David"
+                },
+                {
+                  "name": "Lani Drake"
+                },
+                {
+                  "name": "Mukta Bhuskute",
+                  "_formerNames": [
+                    "Reyna Martinez"
+                  ]
+                },
+                {
+                  "name": "Reyna Martinez"
                 }
               ]
             }
