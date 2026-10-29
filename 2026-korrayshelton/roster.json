@@ -6,10 +6,10 @@
       "name": "2026 KS Tournament",
       "registrations": [
         {
-          "name": "Chipola",
+          "name": "Chipola College",
           "teams": [
             {
-              "name": "Chipola",
+              "name": "Chipola College",
               "players": [
                 {
                   "name": "Jeremy Scurlock"
@@ -22,91 +22,6 @@
                 },
                 {
                   "name": "Landen Bernier"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Florida Gateway College",
-          "teams": [
-            {
-              "name": "Florida Gateway College",
-              "players": [
-                {
-                  "name": "Baileigh Griffis"
-                },
-                {
-                  "name": "Ara Hargraves"
-                },
-                {
-                  "name": "Hunter Marton"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "CF Guelphs",
-          "teams": [
-            {
-              "name": "CF Guelphs",
-              "players": [
-                {
-                  "name": "Nicholas Pini"
-                },
-                {
-                  "name": "Ryan San"
-                },
-                {
-                  "name": "Adrianna Gonzalez"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "CF Ghibellines",
-          "teams": [
-            {
-              "name": "CF Ghibellines",
-              "players": [
-                {
-                  "name": "Ben Barner"
-                },
-                {
-                  "name": "Max Kuykendall"
-                },
-                {
-                  "name": "Caspian Cameron"
-                },
-                {
-                  "name": "Sarah Levy"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "FSCJ-A",
-          "teams": [
-            {
-              "name": "FSCJ-A",
-              "players": [
-                {
-                  "name": "Isabel Nix"
-                },
-                {
-                  "name": "Jonah Terrebonne"
-                },
-                {
-                  "name": "Tara Fisher"
-                },
-                {
-                  "name": "Lily Everson"
-                },
-                {
-                  "name": "Olivia HenryZoe Chua"
                 }
               ]
             }
@@ -141,7 +56,7 @@
               "name": "Broward College",
               "players": [
                 {
-                  "name": "Jose (Mikhail) Luna"
+                  "name": "Jose (Mikail) Luna"
                 },
                 {
                   "name": "Khian Reid"
@@ -157,98 +72,29 @@
           ]
         },
         {
-          "name": "SF-C",
+          "name": "Valencia College Red",
           "teams": [
             {
-              "name": "SF-C",
+              "name": "Valencia College Red",
               "players": [
                 {
-                  "name": "Ethan Hobbs"
+                  "name": "Clete Reinberger"
                 },
                 {
-                  "name": "George Cloutier"
+                  "name": "Heloisa Carneiro"
                 },
                 {
-                  "name": "Henry Weber"
+                  "name": "Samantha Norman"
                 }
               ]
             }
           ]
         },
         {
-          "name": "SF-Bumblebees",
+          "name": "Valencia College Black",
           "teams": [
             {
-              "name": "SF-Bumblebees",
-              "_formerNames": [
-                "SF-A"
-              ],
-              "players": [
-                {
-                  "name": "Matthew Hennig"
-                },
-                {
-                  "name": "Lakela DeAngelis"
-                },
-                {
-                  "name": "Enzo Carrascosa"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "SF-Aglets",
-          "teams": [
-            {
-              "name": "SF-Aglets",
-              "_formerNames": [
-                "SF-B"
-              ],
-              "players": [
-                {
-                  "name": "Isabela Caicedo"
-                },
-                {
-                  "name": "Eric Porter"
-                },
-                {
-                  "name": "Kier Teves"
-                },
-                {
-                  "name": "Lisa Ye"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Valencia Red",
-          "teams": [
-            {
-              "name": "Valencia Red",
-              "players": [
-                {
-                  "name": "Clete Reinberger",
-                  "_formerNames": [
-                    "Samantha Norman"
-                  ]
-                },
-                {
-                  "name": "Heloisa Carneiro",
-                  "_formerNames": [
-                    "Keira Mackinnon"
-                  ]
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Valencia Black",
-          "teams": [
-            {
-              "name": "Valencia Black",
+              "name": "Valencia College Black",
               "players": [
                 {
                   "name": "Lexi David"
@@ -257,32 +103,29 @@
                   "name": "Lani Drake"
                 },
                 {
-                  "name": "Mukta Bhuskute",
-                  "_formerNames": [
-                    "Reyna Martinez"
-                  ]
+                  "name": "Mukta Bhuskute"
+                },
+                {
+                  "name": "Reyna Martinez"
                 }
               ]
             }
           ]
         },
         {
-          "name": "FSCJ-B",
+          "name": "Florida Gateway College",
           "teams": [
             {
-              "name": "FSCJ-B",
+              "name": "Florida Gateway College",
               "players": [
                 {
-                  "name": "Zoe Chua"
+                  "name": "Baileigh Griffis"
                 },
                 {
-                  "name": "Zierna Garcia"
+                  "name": "Ara Hargraves"
                 },
                 {
-                  "name": "Adia Thomas"
-                },
-                {
-                  "name": "Rebecca Elie"
+                  "name": "Hunter Marton"
                 }
               ]
             }
