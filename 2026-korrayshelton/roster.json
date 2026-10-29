@@ -98,6 +98,15 @@
                 },
                 {
                   "name": "Jonah Terrebonne"
+                },
+                {
+                  "name": "Tara Fisher"
+                },
+                {
+                  "name": "Lily Everson"
+                },
+                {
+                  "name": "Olivia HenryZoe Chua"
                 }
               ]
             }
@@ -230,12 +239,6 @@
                   "_formerNames": [
                     "Keira Mackinnon"
                   ]
-                },
-                {
-                  "name": "Samantha Norman",
-                  "_formerNames": [
-                    "Samantha Mornan"
-                  ]
                 }
               ]
             }
@@ -258,12 +261,28 @@
                   "_formerNames": [
                     "Reyna Martinez"
                   ]
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-B",
+          "teams": [
+            {
+              "name": "FSCJ-B",
+              "players": [
+                {
+                  "name": "Zoe Chua"
                 },
                 {
-                  "name": "Reyna Martinez",
-                  "_formerNames": [
-                    "Reyna Martines"
-                  ]
+                  "name": "Zierna Garcia"
+                },
+                {
+                  "name": "Adia Thomas"
+                },
+                {
+                  "name": "Rebecca Elie"
                 }
               ]
             }
