@@ -47,25 +47,6 @@
           ]
         },
         {
-          "name": "Tallahassee State College",
-          "teams": [
-            {
-              "name": "Tallahassee State College",
-              "players": [
-                {
-                  "name": "Ian Faletti"
-                },
-                {
-                  "name": "Annabeth Norris"
-                },
-                {
-                  "name": "Caile Harden"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "CF Guelphs",
           "teams": [
             {
@@ -251,7 +232,10 @@
                   ]
                 },
                 {
-                  "name": "Samantha Norman"
+                  "name": "Samantha Norman",
+                  "_formerNames": [
+                    "Samantha Mornan"
+                  ]
                 }
               ]
             }
@@ -276,7 +260,10 @@
                   ]
                 },
                 {
-                  "name": "Reyna Martinez"
+                  "name": "Reyna Martinez",
+                  "_formerNames": [
+                    "Reyna Martines"
+                  ]
                 }
               ]
             }
