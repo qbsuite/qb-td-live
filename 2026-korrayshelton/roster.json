@@ -72,16 +72,16 @@
               "name": "Valencia Red",
               "players": [
                 {
-                  "name": "Samantha Norman"
+                  "name": "Clete Reinberger",
+                  "_formerNames": [
+                    "Samantha Norman"
+                  ]
                 },
                 {
-                  "name": "Keira Mackinnon"
-                },
-                {
-                  "name": "Mukta Bhuskute"
-                },
-                {
-                  "name": "Kyla Bigham"
+                  "name": "Heloisa Carneiro",
+                  "_formerNames": [
+                    "Keira Mackinnon"
+                  ]
                 }
               ]
             }
@@ -119,23 +119,10 @@
                   "name": "Lani Drake"
                 },
                 {
-                  "name": "Reyna Martinez"
-                },
-                {
-                  "name": "Ariana Andujar"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Valencia White",
-          "teams": [
-            {
-              "name": "Valencia White",
-              "players": [
-                {
-                  "name": "Clete Reinberger"
+                  "name": "Mukta Bhuskute",
+                  "_formerNames": [
+                    "Reyna Martinez"
+                  ]
                 }
               ]
             }
