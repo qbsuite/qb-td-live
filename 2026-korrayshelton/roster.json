@@ -1,0 +1,289 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "2026 KS Tournament",
+      "registrations": [
+        {
+          "name": "Chipola",
+          "teams": [
+            {
+              "name": "Chipola",
+              "players": [
+                {
+                  "name": "Jeremy Scurlock"
+                },
+                {
+                  "name": "Rhett Bethea"
+                },
+                {
+                  "name": "Trent Watson"
+                },
+                {
+                  "name": "Landen Bernier"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Florida Gateway College",
+          "teams": [
+            {
+              "name": "Florida Gateway College",
+              "players": [
+                {
+                  "name": "Baileigh Griffis"
+                },
+                {
+                  "name": "Ara Hargraves"
+                },
+                {
+                  "name": "Hunter Marton"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Tallahassee State College",
+          "teams": [
+            {
+              "name": "Tallahassee State College",
+              "players": [
+                {
+                  "name": "Ian Faletti"
+                },
+                {
+                  "name": "Annabeth Norris"
+                },
+                {
+                  "name": "Caile Harden"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia Red",
+          "teams": [
+            {
+              "name": "Valencia Red",
+              "players": [
+                {
+                  "name": "Samantha Norman"
+                },
+                {
+                  "name": "Keira Mackinnon"
+                },
+                {
+                  "name": "Mukta Bhuskute"
+                },
+                {
+                  "name": "Kyla Bigham"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF Guelphs",
+          "teams": [
+            {
+              "name": "CF Guelphs",
+              "players": [
+                {
+                  "name": "Nicholas Pini"
+                },
+                {
+                  "name": "Ryan San"
+                },
+                {
+                  "name": "Adrianna Gonzalez"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-A",
+          "teams": [
+            {
+              "name": "SF-A",
+              "players": [
+                {
+                  "name": "Matthew Hennig"
+                },
+                {
+                  "name": "Lakela DeAngelis"
+                },
+                {
+                  "name": "Enzo Carrascosa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-B",
+          "teams": [
+            {
+              "name": "SF-B",
+              "players": [
+                {
+                  "name": "Isabela Caicedo"
+                },
+                {
+                  "name": "Eric Porter"
+                },
+                {
+                  "name": "Kier Teves"
+                },
+                {
+                  "name": "Lisa Ye"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia Black",
+          "teams": [
+            {
+              "name": "Valencia Black",
+              "players": [
+                {
+                  "name": "Lexi David"
+                },
+                {
+                  "name": "Lani Drake"
+                },
+                {
+                  "name": "Reyna Martinez"
+                },
+                {
+                  "name": "Ariana Andujar"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Valencia White",
+          "teams": [
+            {
+              "name": "Valencia White",
+              "players": [
+                {
+                  "name": "Clete Reinberger"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "CF Ghibellines",
+          "teams": [
+            {
+              "name": "CF Ghibellines",
+              "players": [
+                {
+                  "name": "Ben Barner"
+                },
+                {
+                  "name": "Max Kuykendall"
+                },
+                {
+                  "name": "Caspian Cameron"
+                },
+                {
+                  "name": "Sarah Levy"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FSCJ-A",
+          "teams": [
+            {
+              "name": "FSCJ-A",
+              "players": [
+                {
+                  "name": "Isabel Nix"
+                },
+                {
+                  "name": "Jonah Terrebonne"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Lake Sumter State College",
+          "teams": [
+            {
+              "name": "Lake Sumter State College",
+              "players": [
+                {
+                  "name": "Evander Turner"
+                },
+                {
+                  "name": "Aiden Torres"
+                },
+                {
+                  "name": "Julie Moran"
+                },
+                {
+                  "name": "Giovanni Claudio"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Broward College",
+          "teams": [
+            {
+              "name": "Broward College",
+              "players": [
+                {
+                  "name": "Jose (Mikhail) Luna"
+                },
+                {
+                  "name": "Khian Reid"
+                },
+                {
+                  "name": "Chayenne Edwards"
+                },
+                {
+                  "name": "Sofia Ouanter"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-C",
+          "teams": [
+            {
+              "name": "SF-C",
+              "players": [
+                {
+                  "name": "Ethan Hobbs"
+                },
+                {
+                  "name": "George Cloutier"
+                },
+                {
+                  "name": "Henry Weber"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
