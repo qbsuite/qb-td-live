@@ -107,10 +107,13 @@
           ]
         },
         {
-          "name": "SF-A",
+          "name": "SF-Bumblebees",
           "teams": [
             {
-              "name": "SF-A",
+              "name": "SF-Bumblebees",
+              "_formerNames": [
+                "SF-A"
+              ],
               "players": [
                 {
                   "name": "Matthew Hennig"
@@ -126,10 +129,13 @@
           ]
         },
         {
-          "name": "SF-B",
+          "name": "SF-Aglets",
           "teams": [
             {
-              "name": "SF-B",
+              "name": "SF-Aglets",
+              "_formerNames": [
+                "SF-B"
+              ],
               "players": [
                 {
                   "name": "Isabela Caicedo"
