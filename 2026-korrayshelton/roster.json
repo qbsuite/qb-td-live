@@ -107,31 +107,6 @@
           ]
         },
         {
-          "name": "SF-Aglets",
-          "teams": [
-            {
-              "name": "SF-Aglets",
-              "_formerNames": [
-                "SF-B"
-              ],
-              "players": [
-                {
-                  "name": "Isabela Caicedo"
-                },
-                {
-                  "name": "Eric Porter"
-                },
-                {
-                  "name": "Kier Teves"
-                },
-                {
-                  "name": "Lisa Ye"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "Valencia Black",
           "teams": [
             {
@@ -284,6 +259,31 @@
                 },
                 {
                   "name": "Enzo Carrascosa"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-Aglets",
+          "teams": [
+            {
+              "name": "SF-Aglets",
+              "_formerNames": [
+                "SF-B"
+              ],
+              "players": [
+                {
+                  "name": "Isabela Caicedo"
+                },
+                {
+                  "name": "Eric Porter"
+                },
+                {
+                  "name": "Kier Teves"
+                },
+                {
+                  "name": "Lisa Ye"
                 }
               ]
             }
