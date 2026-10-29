@@ -107,28 +107,6 @@
           ]
         },
         {
-          "name": "SF-Bumblebees",
-          "teams": [
-            {
-              "name": "SF-Bumblebees",
-              "_formerNames": [
-                "SF-A"
-              ],
-              "players": [
-                {
-                  "name": "Matthew Hennig"
-                },
-                {
-                  "name": "Lakela DeAngelis"
-                },
-                {
-                  "name": "Enzo Carrascosa"
-                }
-              ]
-            }
-          ]
-        },
-        {
           "name": "SF-Aglets",
           "teams": [
             {
@@ -284,6 +262,28 @@
                 },
                 {
                   "name": "Henry Weber"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "SF-Bumblebees",
+          "teams": [
+            {
+              "name": "SF-Bumblebees",
+              "_formerNames": [
+                "SF-A"
+              ],
+              "players": [
+                {
+                  "name": "Matthew Hennig"
+                },
+                {
+                  "name": "Lakela DeAngelis"
+                },
+                {
+                  "name": "Enzo Carrascosa"
                 }
               ]
             }
