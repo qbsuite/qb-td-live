@@ -1,0 +1,187 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Test Tourney",
+      "registrations": [
+        {
+          "name": "Yeah",
+          "teams": [
+            {
+              "name": "Yeah",
+              "players": [
+                {
+                  "name": "Bill"
+                },
+                {
+                  "name": "Smith"
+                },
+                {
+                  "name": "Bimth"
+                },
+                {
+                  "name": "What"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Two",
+          "teams": [
+            {
+              "name": "Two",
+              "players": [
+                {
+                  "name": "R"
+                },
+                {
+                  "name": "M"
+                },
+                {
+                  "name": "p"
+                },
+                {
+                  "name": "d"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Ing",
+          "teams": [
+            {
+              "name": "Ing",
+              "players": [
+                {
+                  "name": "wellt"
+                },
+                {
+                  "name": "dd"
+                },
+                {
+                  "name": "ddd"
+                },
+                {
+                  "name": "dddd"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "ling",
+          "teams": [
+            {
+              "name": "ling",
+              "players": [
+                {
+                  "name": "strongforce"
+                },
+                {
+                  "name": "weakforce"
+                },
+                {
+                  "name": "gluon"
+                },
+                {
+                  "name": "shit"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "pingpign",
+          "teams": [
+            {
+              "name": "pingpign",
+              "players": [
+                {
+                  "name": "durian"
+                },
+                {
+                  "name": "pon de manfort"
+                },
+                {
+                  "name": "huh"
+                },
+                {
+                  "name": "what"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "doowop",
+          "teams": [
+            {
+              "name": "doowop",
+              "players": [
+                {
+                  "name": "dorian"
+                },
+                {
+                  "name": "thats not"
+                },
+                {
+                  "name": "me"
+                },
+                {
+                  "name": "meed"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "example 2",
+          "teams": [
+            {
+              "name": "example 2",
+              "players": [
+                {
+                  "name": "rwq"
+                },
+                {
+                  "name": "Terence Tao"
+                },
+                {
+                  "name": "Daniel Kim"
+                },
+                {
+                  "name": "Ja Rule"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Yeahoo",
+          "teams": [
+            {
+              "name": "Yeahoo",
+              "players": [
+                {
+                  "name": "sh"
+                },
+                {
+                  "name": "Dink"
+                },
+                {
+                  "name": "DR2C"
+                },
+                {
+                  "name": "Star War (singular)"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
