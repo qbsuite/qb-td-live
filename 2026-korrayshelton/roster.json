@@ -6,10 +6,13 @@
       "name": "2026 KS Tournament",
       "registrations": [
         {
-          "name": "Chipola College",
+          "name": "Chipola",
           "teams": [
             {
-              "name": "Chipola College",
+              "name": "Chipola",
+              "_formerNames": [
+                "Chipola College"
+              ],
               "players": [
                 {
                   "name": "Jeremy Scurlock"
@@ -28,10 +31,13 @@
           ]
         },
         {
-          "name": "Lake Sumter State College",
+          "name": "LSSC",
           "teams": [
             {
-              "name": "Lake Sumter State College",
+              "name": "LSSC",
+              "_formerNames": [
+                "Lake Sumter State College"
+              ],
               "players": [
                 {
                   "name": "Evander Turner"
@@ -50,10 +56,13 @@
           ]
         },
         {
-          "name": "Broward College",
+          "name": "Broward",
           "teams": [
             {
-              "name": "Broward College",
+              "name": "Broward",
+              "_formerNames": [
+                "Broward College"
+              ],
               "players": [
                 {
                   "name": "Jose (Mikail) Luna"
@@ -72,10 +81,13 @@
           ]
         },
         {
-          "name": "Valencia College Red",
+          "name": "Valencia Red",
           "teams": [
             {
-              "name": "Valencia College Red",
+              "name": "Valencia Red",
+              "_formerNames": [
+                "Valencia College Red"
+              ],
               "players": [
                 {
                   "name": "Clete Reinberger"
@@ -91,10 +103,13 @@
           ]
         },
         {
-          "name": "Valencia College Black",
+          "name": "Valencia Black",
           "teams": [
             {
-              "name": "Valencia College Black",
+              "name": "Valencia Black",
+              "_formerNames": [
+                "Valencia College Black"
+              ],
               "players": [
                 {
                   "name": "Lexi David"
@@ -113,10 +128,13 @@
           ]
         },
         {
-          "name": "Florida Gateway College",
+          "name": "Florida Gateway",
           "teams": [
             {
-              "name": "Florida Gateway College",
+              "name": "Florida Gateway",
+              "_formerNames": [
+                "Florida Gateway College"
+              ],
               "players": [
                 {
                   "name": "Baileigh Griffis"
@@ -132,10 +150,13 @@
           ]
         },
         {
-          "name": "College of Central Florida Guelphs",
+          "name": "CF Guelphs",
           "teams": [
             {
-              "name": "College of Central Florida Guelphs",
+              "name": "CF Guelphs",
+              "_formerNames": [
+                "College of Central Florida Guelphs"
+              ],
               "players": [
                 {
                   "name": "Nicholas Pini"
@@ -151,10 +172,13 @@
           ]
         },
         {
-          "name": "College of Central Florida Ghibellines",
+          "name": "CF Ghibellines",
           "teams": [
             {
-              "name": "College of Central Florida Ghibellines",
+              "name": "CF Ghibellines",
+              "_formerNames": [
+                "College of Central Florida Ghibellines"
+              ],
               "players": [
                 {
                   "name": "Ben Barner"
@@ -173,10 +197,13 @@
           ]
         },
         {
-          "name": "Florida State College Jacksonville A",
+          "name": "FSCJ-A",
           "teams": [
             {
-              "name": "Florida State College Jacksonville A",
+              "name": "FSCJ-A",
+              "_formerNames": [
+                "Florida State College Jacksonville A"
+              ],
               "players": [
                 {
                   "name": "Isabel Nix"
@@ -198,10 +225,13 @@
           ]
         },
         {
-          "name": "Florida State College Jacksonville B",
+          "name": "FSCJ-B",
           "teams": [
             {
-              "name": "Florida State College Jacksonville B",
+              "name": "FSCJ-B",
+              "_formerNames": [
+                "Florida State College Jacksonville B"
+              ],
               "players": [
                 {
                   "name": "Lillian Hernandez"
@@ -223,10 +253,13 @@
           ]
         },
         {
-          "name": "Santa Fe College Aglets",
+          "name": "SF Aglets",
           "teams": [
             {
-              "name": "Santa Fe College Aglets",
+              "name": "SF Aglets",
+              "_formerNames": [
+                "Santa Fe College Aglets"
+              ],
               "players": [
                 {
                   "name": "Isabela Caicedo"
@@ -242,10 +275,13 @@
           ]
         },
         {
-          "name": "Santa Fe College B",
+          "name": "SF B",
           "teams": [
             {
-              "name": "Santa Fe College B",
+              "name": "SF B",
+              "_formerNames": [
+                "Santa Fe College B"
+              ],
               "players": [
                 {
                   "name": "Matthew Hennig"
@@ -261,10 +297,13 @@
           ]
         },
         {
-          "name": "Santa Fe College C",
+          "name": "SF C",
           "teams": [
             {
-              "name": "Santa Fe College C",
+              "name": "SF C",
+              "_formerNames": [
+                "Santa Fe College C"
+              ],
               "players": [
                 {
                   "name": "Ethan Hobbs"
