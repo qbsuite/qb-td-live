@@ -254,6 +254,9 @@
                 },
                 {
                   "name": "Lisa Ye"
+                },
+                {
+                  "name": "Henry Weber"
                 }
               ]
             }
@@ -322,7 +325,10 @@
                   ]
                 },
                 {
-                  "name": "Zoe Chua"
+                  "name": "Zoe Chua",
+                  "_formerNames": [
+                    "Zoe Chu"
+                  ]
                 }
               ]
             }
