@@ -269,6 +269,9 @@
                 },
                 {
                   "name": "Eric Porter"
+                },
+                {
+                  "name": "Lisa Ye"
                 }
               ]
             }
@@ -287,32 +290,16 @@
                   "name": "Matthew Hennig"
                 },
                 {
-                  "name": "Enzo Carrascosa"
+                  "name": "George Cloutier",
+                  "_formerNames": [
+                    "Enzo Carrascosa"
+                  ]
                 },
                 {
                   "name": "Lakela DeAngelis"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "SF C",
-          "teams": [
-            {
-              "name": "SF C",
-              "_formerNames": [
-                "Santa Fe College C"
-              ],
-              "players": [
+                },
                 {
                   "name": "Ethan Hobbs"
-                },
-                {
-                  "name": "George Cloutier"
-                },
-                {
-                  "name": "Lisa Ye"
                 }
               ]
             }
