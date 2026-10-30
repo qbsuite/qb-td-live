@@ -197,56 +197,76 @@
           ]
         },
         {
-          "name": "FSCJ-A",
+          "name": "FSCJ-Pink",
           "teams": [
             {
-              "name": "FSCJ-A",
+              "name": "FSCJ-Pink",
               "_formerNames": [
-                "Florida State College Jacksonville A"
+                "Florida State College Jacksonville A",
+                "FSCJ-A"
               ],
               "players": [
                 {
-                  "name": "Isabel Nix"
+                  "name": "Amadou Seck",
+                  "_formerNames": [
+                    "Isabel Nix"
+                  ]
                 },
                 {
-                  "name": "Jonah Terrebonne"
+                  "name": "Jacque Gray",
+                  "_formerNames": [
+                    "Jonah Terrebonne"
+                  ]
                 },
                 {
-                  "name": "Zoe Chua"
+                  "name": "Joana Christiansen",
+                  "_formerNames": [
+                    "Zoe Chua"
+                  ]
                 },
                 {
-                  "name": "Zierna Garcia"
-                },
-                {
-                  "name": "Tara Fisher"
+                  "name": "Xahnyou Anu-Felistin",
+                  "_formerNames": [
+                    "Zierna Garcia"
+                  ]
                 }
               ]
             }
           ]
         },
         {
-          "name": "FSCJ-B",
+          "name": "FSCJ-Purple",
           "teams": [
             {
-              "name": "FSCJ-B",
+              "name": "FSCJ-Purple",
               "_formerNames": [
-                "Florida State College Jacksonville B"
+                "Florida State College Jacksonville B",
+                "FSCJ-B"
               ],
               "players": [
                 {
-                  "name": "Lillian Hernandez"
+                  "name": "Zierna Garcia",
+                  "_formerNames": [
+                    "Lillian Hernandez"
+                  ]
                 },
                 {
-                  "name": "Amadou Seck"
+                  "name": "Isabel Nix",
+                  "_formerNames": [
+                    "Amadou Seck"
+                  ]
                 },
                 {
-                  "name": "Noah Mauer"
+                  "name": "Malachi Ingram",
+                  "_formerNames": [
+                    "Noah Mauer"
+                  ]
                 },
                 {
-                  "name": "Dharma Wade"
-                },
-                {
-                  "name": "Lily Everson"
+                  "name": "Lilian Hernandez",
+                  "_formerNames": [
+                    "Dharma Wade"
+                  ]
                 }
               ]
             }
