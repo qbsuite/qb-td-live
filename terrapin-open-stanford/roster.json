@@ -1,0 +1,131 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Terrapin Open @ Stanford",
+      "registrations": [
+        {
+          "name": "TBD 1",
+          "teams": [
+            {
+              "name": "TBD 1",
+              "players": [
+                {
+                  "name": "Stephen Liu"
+                },
+                {
+                  "name": "Eric Chen"
+                },
+                {
+                  "name": "Daniel Hothem"
+                },
+                {
+                  "name": "Kyle Sutherlin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Pennford",
+          "teams": [
+            {
+              "name": "Pennford",
+              "players": [
+                {
+                  "name": "Benjamin McAvoy-Bickford"
+                },
+                {
+                  "name": "Danny Han"
+                },
+                {
+                  "name": "Ryan Fang"
+                },
+                {
+                  "name": "Anirudh Bharadwaj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Stanford A",
+          "teams": [
+            {
+              "name": "Stanford A",
+              "players": [
+                {
+                  "name": "Nathan Zhang"
+                },
+                {
+                  "name": "Michał Gerasimiuk"
+                },
+                {
+                  "name": "Khang Le"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Berkeley A",
+          "teams": [
+            {
+              "name": "Berkeley A",
+              "players": [
+                {
+                  "name": "Tanay Bodducherla"
+                },
+                {
+                  "name": "Swapnil Garg"
+                },
+                {
+                  "name": "Anirudh Kannan"
+                },
+                {
+                  "name": "Jimmy Youngjae Sim"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "not Berkeley",
+          "teams": [
+            {
+              "name": "not Berkeley",
+              "players": [
+                {
+                  "name": "Anuttam Ramji"
+                },
+                {
+                  "name": "Vivian Malouf"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "TBD 2",
+          "teams": [
+            {
+              "name": "TBD 2",
+              "players": [
+                {
+                  "name": "Allan Lee"
+                },
+                {
+                  "name": "Shaphnah McKenzie"
+                },
+                {
+                  "name": "Ankit Aggarwal"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
