@@ -6,10 +6,13 @@
       "name": "Terrapin Open @ Stanford",
       "registrations": [
         {
-          "name": "TBD 1",
+          "name": "The olds aren't all right",
           "teams": [
             {
-              "name": "TBD 1",
+              "name": "The olds aren't all right",
+              "_formerNames": [
+                "TBD 1"
+              ],
               "players": [
                 {
                   "name": "Stephen Liu"
