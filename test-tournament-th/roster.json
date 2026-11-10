@@ -1,0 +1,187 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Test Tournament-TH",
+      "registrations": [
+        {
+          "name": "Murray State A",
+          "teams": [
+            {
+              "name": "Murray State A",
+              "players": [
+                {
+                  "name": "1"
+                },
+                {
+                  "name": "2"
+                },
+                {
+                  "name": "3"
+                },
+                {
+                  "name": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "MSC B",
+          "teams": [
+            {
+              "name": "MSC B",
+              "players": [
+                {
+                  "name": "1"
+                },
+                {
+                  "name": "2"
+                },
+                {
+                  "name": "3"
+                },
+                {
+                  "name": "4"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fdas",
+          "teams": [
+            {
+              "name": "fdas",
+              "players": [
+                {
+                  "name": "fd"
+                },
+                {
+                  "name": "er"
+                },
+                {
+                  "name": "rt"
+                },
+                {
+                  "name": "fdty"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fdsa",
+          "teams": [
+            {
+              "name": "fdsa",
+              "players": [
+                {
+                  "name": "gf"
+                },
+                {
+                  "name": "hg"
+                },
+                {
+                  "name": "vc"
+                },
+                {
+                  "name": "gh"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "bvc",
+          "teams": [
+            {
+              "name": "bvc",
+              "players": [
+                {
+                  "name": "bv"
+                },
+                {
+                  "name": "cx"
+                },
+                {
+                  "name": "zx"
+                },
+                {
+                  "name": "nb"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "rt",
+          "teams": [
+            {
+              "name": "rt",
+              "players": [
+                {
+                  "name": "tr"
+                },
+                {
+                  "name": "yu"
+                },
+                {
+                  "name": "iu"
+                },
+                {
+                  "name": "oi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "sd",
+          "teams": [
+            {
+              "name": "sd",
+              "players": [
+                {
+                  "name": "df"
+                },
+                {
+                  "name": "fg"
+                },
+                {
+                  "name": "gh"
+                },
+                {
+                  "name": "hj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "fd",
+          "teams": [
+            {
+              "name": "fd",
+              "players": [
+                {
+                  "name": "er"
+                },
+                {
+                  "name": "rt"
+                },
+                {
+                  "name": "yt"
+                },
+                {
+                  "name": "jk"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
