@@ -12,7 +12,10 @@
               "name": "San Francisco",
               "players": [
                 {
-                  "name": "Ryang Fang"
+                  "name": "Ryan Fang",
+                  "_formerNames": [
+                    "Ryang Fang"
+                  ]
                 },
                 {
                   "name": "Danny Han"
