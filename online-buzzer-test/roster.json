@@ -1,0 +1,40 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "Online-Buzzer-Test",
+      "registrations": [
+        {
+          "name": "San Francisco",
+          "teams": [
+            {
+              "name": "San Francisco",
+              "players": [
+                {
+                  "name": "Ryang Fang"
+                },
+                {
+                  "name": "Danny Han"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Germany",
+          "teams": [
+            {
+              "name": "Germany",
+              "players": [
+                {
+                  "name": "Andrew Zeng"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
