@@ -1,0 +1,102 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "LANCELOT II",
+      "registrations": [
+        {
+          "name": "Arcadia",
+          "teams": [
+            {
+              "name": "Arcadia",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "North Hollywood A",
+          "teams": [
+            {
+              "name": "North Hollywood A",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "North Hollywood B",
+          "teams": [
+            {
+              "name": "North Hollywood B",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "North Hollywood C",
+          "teams": [
+            {
+              "name": "North Hollywood C",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Viewpoint A",
+          "teams": [
+            {
+              "name": "Viewpoint A",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Viewpoint B",
+          "teams": [
+            {
+              "name": "Viewpoint B",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "West Ranch",
+          "teams": [
+            {
+              "name": "West Ranch",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
