@@ -45,10 +45,13 @@
           ]
         },
         {
-          "name": "CF A",
+          "name": "Central Florida A",
           "teams": [
             {
-              "name": "CF A",
+              "name": "Central Florida A",
+              "_formerNames": [
+                "CF A"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -58,10 +61,29 @@
           ]
         },
         {
-          "name": "CF B",
+          "name": "Central Florida B",
           "teams": [
             {
-              "name": "CF B",
+              "name": "Central Florida B",
+              "_formerNames": [
+                "CF B"
+              ],
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Central Florida C",
+          "teams": [
+            {
+              "name": "Central Florida C",
+              "_formerNames": [
+                "Tallahassee"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -270,19 +292,6 @@
           "teams": [
             {
               "name": "Cottondale",
-              "players": [
-                {
-                  "name": "1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Tallahassee",
-          "teams": [
-            {
-              "name": "Tallahassee",
               "players": [
                 {
                   "name": "1"
