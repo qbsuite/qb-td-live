@@ -6,10 +6,13 @@
       "name": "TestTH",
       "registrations": [
         {
-          "name": "A",
+          "name": "1",
           "teams": [
             {
-              "name": "A",
+              "name": "1",
+              "_formerNames": [
+                "A"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -19,10 +22,13 @@
           ]
         },
         {
-          "name": "B",
+          "name": "2",
           "teams": [
             {
-              "name": "B",
+              "name": "2",
+              "_formerNames": [
+                "B"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -32,10 +38,13 @@
           ]
         },
         {
-          "name": "C",
+          "name": "3",
           "teams": [
             {
-              "name": "C",
+              "name": "3",
+              "_formerNames": [
+                "C"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -45,10 +54,13 @@
           ]
         },
         {
-          "name": "D",
+          "name": "4",
           "teams": [
             {
-              "name": "D",
+              "name": "4",
+              "_formerNames": [
+                "D"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -58,10 +70,13 @@
           ]
         },
         {
-          "name": "E",
+          "name": "5",
           "teams": [
             {
-              "name": "E",
+              "name": "5",
+              "_formerNames": [
+                "E"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -71,10 +86,13 @@
           ]
         },
         {
-          "name": "F",
+          "name": "6",
           "teams": [
             {
-              "name": "F",
+              "name": "6",
+              "_formerNames": [
+                "F"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -84,10 +102,13 @@
           ]
         },
         {
-          "name": "G",
+          "name": "7",
           "teams": [
             {
-              "name": "G",
+              "name": "7",
+              "_formerNames": [
+                "G"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -97,10 +118,13 @@
           ]
         },
         {
-          "name": "H",
+          "name": "8",
           "teams": [
             {
-              "name": "H",
+              "name": "8",
+              "_formerNames": [
+                "H"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -110,10 +134,13 @@
           ]
         },
         {
-          "name": "I",
+          "name": "9",
           "teams": [
             {
-              "name": "I",
+              "name": "9",
+              "_formerNames": [
+                "I"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -123,10 +150,13 @@
           ]
         },
         {
-          "name": "J",
+          "name": "10",
           "teams": [
             {
-              "name": "J",
+              "name": "10",
+              "_formerNames": [
+                "J"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -136,10 +166,13 @@
           ]
         },
         {
-          "name": "K",
+          "name": "11",
           "teams": [
             {
-              "name": "K",
+              "name": "11",
+              "_formerNames": [
+                "K"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -149,10 +182,13 @@
           ]
         },
         {
-          "name": "L",
+          "name": "12",
           "teams": [
             {
-              "name": "L",
+              "name": "12",
+              "_formerNames": [
+                "L"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -162,10 +198,13 @@
           ]
         },
         {
-          "name": "M",
+          "name": "13",
           "teams": [
             {
-              "name": "M",
+              "name": "13",
+              "_formerNames": [
+                "M"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -175,10 +214,13 @@
           ]
         },
         {
-          "name": "N",
+          "name": "14",
           "teams": [
             {
-              "name": "N",
+              "name": "14",
+              "_formerNames": [
+                "N"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -188,10 +230,13 @@
           ]
         },
         {
-          "name": "O",
+          "name": "15",
           "teams": [
             {
-              "name": "O",
+              "name": "15",
+              "_formerNames": [
+                "O"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -201,10 +246,13 @@
           ]
         },
         {
-          "name": "P",
+          "name": "16",
           "teams": [
             {
-              "name": "P",
+              "name": "16",
+              "_formerNames": [
+                "P"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -214,10 +262,13 @@
           ]
         },
         {
-          "name": "Q",
+          "name": "17",
           "teams": [
             {
-              "name": "Q",
+              "name": "17",
+              "_formerNames": [
+                "Q"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -227,10 +278,13 @@
           ]
         },
         {
-          "name": "R",
+          "name": "18",
           "teams": [
             {
-              "name": "R",
+              "name": "18",
+              "_formerNames": [
+                "R"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -240,10 +294,13 @@
           ]
         },
         {
-          "name": "S",
+          "name": "19",
           "teams": [
             {
-              "name": "S",
+              "name": "19",
+              "_formerNames": [
+                "S"
+              ],
               "players": [
                 {
                   "name": "1"
@@ -253,10 +310,13 @@
           ]
         },
         {
-          "name": "T",
+          "name": "20",
           "teams": [
             {
-              "name": "T",
+              "name": "20",
+              "_formerNames": [
+                "T"
+              ],
               "players": [
                 {
                   "name": "1"
