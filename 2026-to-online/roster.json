@@ -1,0 +1,172 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "2026 TO Online",
+      "registrations": [
+        {
+          "name": "Chaste of Terry",
+          "teams": [
+            {
+              "name": "Chaste of Terry",
+              "players": [
+                {
+                  "name": "Terry Tang"
+                },
+                {
+                  "name": "Young Fenimore Lee"
+                },
+                {
+                  "name": "David Bass"
+                },
+                {
+                  "name": "Jaimie Carlson"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Songbird Held in Morals Charge",
+          "teams": [
+            {
+              "name": "Songbird Held in Morals Charge",
+              "players": [
+                {
+                  "name": "Mike Bentley"
+                },
+                {
+                  "name": "Chris Grubb"
+                },
+                {
+                  "name": "Tris Cole"
+                },
+                {
+                  "name": "Henry Bon"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "FARTEOLOGY FART",
+          "teams": [
+            {
+              "name": "FARTEOLOGY FART",
+              "players": [
+                {
+                  "name": "Tracy Mirkin"
+                },
+                {
+                  "name": "Taylor Harvey"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Auburn",
+          "teams": [
+            {
+              "name": "Auburn",
+              "players": [
+                {
+                  "name": "Tate Osborne"
+                },
+                {
+                  "name": "Henry Bylinowski"
+                },
+                {
+                  "name": "Brodie Henry"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Moorthy et al.",
+          "teams": [
+            {
+              "name": "Moorthy et al.",
+              "players": [
+                {
+                  "name": "Bhaskar Moorthy"
+                },
+                {
+                  "name": "Christopher Nguyen"
+                },
+                {
+                  "name": "Navya Manchala"
+                },
+                {
+                  "name": "Joshua Li"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Was this the mouth that launched a thousand spice ships?",
+          "teams": [
+            {
+              "name": "Was this the mouth that launched a thousand spice ships?",
+              "players": [
+                {
+                  "name": "Ben Hellman"
+                },
+                {
+                  "name": "Sim Spurrier"
+                },
+                {
+                  "name": "Owen Steele"
+                },
+                {
+                  "name": "Kenji Shimizu"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Yeah",
+          "teams": [
+            {
+              "name": "Yeah",
+              "players": [
+                {
+                  "name": "Chris Yoo"
+                },
+                {
+                  "name": "Alec Riso"
+                },
+                {
+                  "name": "Alan Fan"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Free Agents",
+          "teams": [
+            {
+              "name": "Free Agents",
+              "players": [
+                {
+                  "name": "Elie Aoun"
+                },
+                {
+                  "name": "Eric Mukherjee"
+                },
+                {
+                  "name": "Qingyu Zhang"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
