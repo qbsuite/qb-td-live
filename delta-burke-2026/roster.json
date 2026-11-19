@@ -45,6 +45,19 @@
           ]
         },
         {
+          "name": "Chipola",
+          "teams": [
+            {
+              "name": "Chipola",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "Central Florida A",
           "teams": [
             {
@@ -223,10 +236,10 @@
           ]
         },
         {
-          "name": "Chipola",
+          "name": "Gateway",
           "teams": [
             {
-              "name": "Chipola",
+              "name": "Gateway",
               "players": [
                 {
                   "name": "1"
@@ -253,32 +266,6 @@
           "teams": [
             {
               "name": "Murray State B",
-              "players": [
-                {
-                  "name": "1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Gateway",
-          "teams": [
-            {
-              "name": "Gateway",
-              "players": [
-                {
-                  "name": "1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Indian River",
-          "teams": [
-            {
-              "name": "Indian River",
               "players": [
                 {
                   "name": "1"
@@ -318,6 +305,19 @@
           "teams": [
             {
               "name": "FSCJ B",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Indian River",
+          "teams": [
+            {
+              "name": "Indian River",
               "players": [
                 {
                   "name": "1"
