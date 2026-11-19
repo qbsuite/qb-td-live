@@ -1,0 +1,271 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "TestTH",
+      "registrations": [
+        {
+          "name": "A",
+          "teams": [
+            {
+              "name": "A",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "B",
+          "teams": [
+            {
+              "name": "B",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "C",
+          "teams": [
+            {
+              "name": "C",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "D",
+          "teams": [
+            {
+              "name": "D",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "E",
+          "teams": [
+            {
+              "name": "E",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "F",
+          "teams": [
+            {
+              "name": "F",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "G",
+          "teams": [
+            {
+              "name": "G",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "H",
+          "teams": [
+            {
+              "name": "H",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "I",
+          "teams": [
+            {
+              "name": "I",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "J",
+          "teams": [
+            {
+              "name": "J",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "K",
+          "teams": [
+            {
+              "name": "K",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "L",
+          "teams": [
+            {
+              "name": "L",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "M",
+          "teams": [
+            {
+              "name": "M",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "N",
+          "teams": [
+            {
+              "name": "N",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "O",
+          "teams": [
+            {
+              "name": "O",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "P",
+          "teams": [
+            {
+              "name": "P",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Q",
+          "teams": [
+            {
+              "name": "Q",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "R",
+          "teams": [
+            {
+              "name": "R",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "S",
+          "teams": [
+            {
+              "name": "S",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "T",
+          "teams": [
+            {
+              "name": "T",
+              "players": [
+                {
+                  "name": "1"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
