@@ -19,6 +19,19 @@
           ]
         },
         {
+          "name": "Irvine",
+          "teams": [
+            {
+              "name": "Irvine",
+              "players": [
+                {
+                  "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
           "name": "North Hollywood A",
           "teams": [
             {
@@ -52,6 +65,25 @@
               "players": [
                 {
                   "name": "A"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Portola",
+          "teams": [
+            {
+              "name": "Portola",
+              "players": [
+                {
+                  "name": "Soham Patel"
+                },
+                {
+                  "name": "Nathan Ly"
+                },
+                {
+                  "name": "Jay Wahi"
                 }
               ]
             }
