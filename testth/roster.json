@@ -6,12 +6,13 @@
       "name": "TestTH",
       "registrations": [
         {
-          "name": "1",
+          "name": "Chipola",
           "teams": [
             {
-              "name": "1",
+              "name": "Chipola",
               "_formerNames": [
-                "A"
+                "A",
+                "1"
               ],
               "players": [
                 {
@@ -22,12 +23,13 @@
           ]
         },
         {
-          "name": "2",
+          "name": "Murray State A",
           "teams": [
             {
-              "name": "2",
+              "name": "Murray State A",
               "_formerNames": [
-                "B"
+                "B",
+                "2"
               ],
               "players": [
                 {
@@ -38,12 +40,13 @@
           ]
         },
         {
-          "name": "3",
+          "name": "Murray State B",
           "teams": [
             {
-              "name": "3",
+              "name": "Murray State B",
               "_formerNames": [
-                "C"
+                "C",
+                "3"
               ],
               "players": [
                 {
@@ -54,12 +57,13 @@
           ]
         },
         {
-          "name": "4",
+          "name": "Cottondale",
           "teams": [
             {
-              "name": "4",
+              "name": "Cottondale",
               "_formerNames": [
-                "D"
+                "D",
+                "4"
               ],
               "players": [
                 {
@@ -70,12 +74,13 @@
           ]
         },
         {
-          "name": "5",
+          "name": "Santa Fe A",
           "teams": [
             {
-              "name": "5",
+              "name": "Santa Fe A",
               "_formerNames": [
-                "E"
+                "E",
+                "5"
               ],
               "players": [
                 {
@@ -86,12 +91,13 @@
           ]
         },
         {
-          "name": "6",
+          "name": "CF A",
           "teams": [
             {
-              "name": "6",
+              "name": "CF A",
               "_formerNames": [
-                "F"
+                "F",
+                "6"
               ],
               "players": [
                 {
@@ -102,12 +108,13 @@
           ]
         },
         {
-          "name": "7",
+          "name": "Lake Sumter",
           "teams": [
             {
-              "name": "7",
+              "name": "Lake Sumter",
               "_formerNames": [
-                "G"
+                "K",
+                "11"
               ],
               "players": [
                 {
@@ -118,12 +125,13 @@
           ]
         },
         {
-          "name": "8",
+          "name": "Valencia A",
           "teams": [
             {
-              "name": "8",
+              "name": "Valencia A",
               "_formerNames": [
-                "H"
+                "G",
+                "7"
               ],
               "players": [
                 {
@@ -134,12 +142,13 @@
           ]
         },
         {
-          "name": "9",
+          "name": "Santa Fe B",
           "teams": [
             {
-              "name": "9",
+              "name": "Santa Fe B",
               "_formerNames": [
-                "I"
+                "H",
+                "8"
               ],
               "players": [
                 {
@@ -150,12 +159,13 @@
           ]
         },
         {
-          "name": "10",
+          "name": "Gateway",
           "teams": [
             {
-              "name": "10",
+              "name": "Gateway",
               "_formerNames": [
-                "J"
+                "I",
+                "9"
               ],
               "players": [
                 {
@@ -166,12 +176,13 @@
           ]
         },
         {
-          "name": "11",
+          "name": "CF B",
           "teams": [
             {
-              "name": "11",
+              "name": "CF B",
               "_formerNames": [
-                "K"
+                "J",
+                "10"
               ],
               "players": [
                 {
@@ -182,12 +193,13 @@
           ]
         },
         {
-          "name": "12",
+          "name": "FSCJ A",
           "teams": [
             {
-              "name": "12",
+              "name": "FSCJ A",
               "_formerNames": [
-                "L"
+                "L",
+                "12"
               ],
               "players": [
                 {
@@ -198,12 +210,13 @@
           ]
         },
         {
-          "name": "13",
+          "name": "Valencia B",
           "teams": [
             {
-              "name": "13",
+              "name": "Valencia B",
               "_formerNames": [
-                "M"
+                "M",
+                "13"
               ],
               "players": [
                 {
@@ -214,12 +227,13 @@
           ]
         },
         {
-          "name": "14",
+          "name": "South Florida",
           "teams": [
             {
-              "name": "14",
+              "name": "South Florida",
               "_formerNames": [
-                "N"
+                "N",
+                "14"
               ],
               "players": [
                 {
@@ -230,12 +244,13 @@
           ]
         },
         {
-          "name": "15",
+          "name": "Pensacola A",
           "teams": [
             {
-              "name": "15",
+              "name": "Pensacola A",
               "_formerNames": [
-                "O"
+                "O",
+                "15"
               ],
               "players": [
                 {
@@ -246,12 +261,13 @@
           ]
         },
         {
-          "name": "16",
+          "name": "Pensacola B",
           "teams": [
             {
-              "name": "16",
+              "name": "Pensacola B",
               "_formerNames": [
-                "P"
+                "P",
+                "16"
               ],
               "players": [
                 {
@@ -262,12 +278,13 @@
           ]
         },
         {
-          "name": "17",
+          "name": "CF C",
           "teams": [
             {
-              "name": "17",
+              "name": "CF C",
               "_formerNames": [
-                "Q"
+                "Q",
+                "17"
               ],
               "players": [
                 {
@@ -278,12 +295,13 @@
           ]
         },
         {
-          "name": "18",
+          "name": "Oak Ridge A",
           "teams": [
             {
-              "name": "18",
+              "name": "Oak Ridge A",
               "_formerNames": [
-                "R"
+                "R",
+                "18"
               ],
               "players": [
                 {
@@ -294,12 +312,13 @@
           ]
         },
         {
-          "name": "19",
+          "name": "FSCJ B",
           "teams": [
             {
-              "name": "19",
+              "name": "FSCJ B",
               "_formerNames": [
-                "S"
+                "S",
+                "19"
               ],
               "players": [
                 {
@@ -310,12 +329,13 @@
           ]
         },
         {
-          "name": "20",
+          "name": "Oak Ridge B",
           "teams": [
             {
-              "name": "20",
+              "name": "Oak Ridge B",
               "_formerNames": [
-                "T"
+                "T",
+                "20"
               ],
               "players": [
                 {
