@@ -1,0 +1,181 @@
+{
+  "version": "2.1.1",
+  "objects": [
+    {
+      "type": "Tournament",
+      "name": "CLOPEN @ UChicago",
+      "registrations": [
+        {
+          "name": "Theresa \"Huck cube\" Cha",
+          "teams": [
+            {
+              "name": "Theresa \"Huck cube\" Cha",
+              "players": [
+                {
+                  "name": "Andrew Wang"
+                },
+                {
+                  "name": "Akshar Goyal"
+                },
+                {
+                  "name": "Arjun Kala"
+                },
+                {
+                  "name": "Michael Hunding"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "To Add One More Card to an Anonymous Anki Deck",
+          "teams": [
+            {
+              "name": "To Add One More Card to an Anonymous Anki Deck",
+              "players": [
+                {
+                  "name": "Charles Hang"
+                },
+                {
+                  "name": "John John Groger"
+                },
+                {
+                  "name": "Logan Mathis"
+                },
+                {
+                  "name": "June Yin"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Sinecio qua non",
+          "teams": [
+            {
+              "name": "Sinecio qua non",
+              "players": [
+                {
+                  "name": "Daniel Merida"
+                },
+                {
+                  "name": "Rohan Jain"
+                },
+                {
+                  "name": "Sinecio Morales"
+                },
+                {
+                  "name": "Edward Kim"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Nattering Nabobs of Naveedism",
+          "teams": [
+            {
+              "name": "Nattering Nabobs of Naveedism",
+              "players": [
+                {
+                  "name": "Dylan Minarik"
+                },
+                {
+                  "name": "Connor Mayers"
+                },
+                {
+                  "name": "Adam Fine"
+                },
+                {
+                  "name": "Naveed Chowdhury"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Chicago A",
+          "teams": [
+            {
+              "name": "Chicago A",
+              "players": [
+                {
+                  "name": "Alvin Guo"
+                },
+                {
+                  "name": "John Marvin"
+                },
+                {
+                  "name": "Jai Shah"
+                },
+                {
+                  "name": "Dustin Sanders"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "NorthRhine WesternPhalia",
+          "teams": [
+            {
+              "name": "NorthRhine WesternPhalia",
+              "players": [
+                {
+                  "name": "Matt Schiavone"
+                },
+                {
+                  "name": "Kai Smith"
+                },
+                {
+                  "name": "Sharath Narayan"
+                },
+                {
+                  "name": "Jacob Puthipiroj"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Not even Maomao could figure out these science questions",
+          "teams": [
+            {
+              "name": "Not even Maomao could figure out these science questions",
+              "players": [
+                {
+                  "name": "Aditya Rajesh"
+                },
+                {
+                  "name": "Denis Liu"
+                },
+                {
+                  "name": "Stephen Walsh"
+                },
+                {
+                  "name": "Azura Gollamudi"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Rowdy Raiders",
+          "teams": [
+            {
+              "name": "Rowdy Raiders",
+              "players": [
+                {
+                  "name": "Bing Bingham"
+                },
+                {
+                  "name": "NourEddine Hijazi"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
