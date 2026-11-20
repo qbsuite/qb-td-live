@@ -129,10 +129,13 @@
           ]
         },
         {
-          "name": "Yeah",
+          "name": "Latest Registration, Earliest Buzz",
           "teams": [
             {
-              "name": "Yeah",
+              "name": "Latest Registration, Earliest Buzz",
+              "_formerNames": [
+                "Yeah"
+              ],
               "players": [
                 {
                   "name": "Chris Yoo"
@@ -142,6 +145,9 @@
                 },
                 {
                   "name": "Alan Fan"
+                },
+                {
+                  "name": "Kevin Peng"
                 }
               ]
             }
@@ -161,6 +167,9 @@
                 },
                 {
                   "name": "Qingyu Zhang"
+                },
+                {
+                  "name": "Liam Kusalik"
                 }
               ]
             }
