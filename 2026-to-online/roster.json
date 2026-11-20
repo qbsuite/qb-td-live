@@ -50,10 +50,13 @@
           ]
         },
         {
-          "name": "FARTEOLOGY FART",
+          "name": "Tung Tung Tunguskahur Event, 1908",
           "teams": [
             {
-              "name": "FARTEOLOGY FART",
+              "name": "Tung Tung Tunguskahur Event, 1908",
+              "_formerNames": [
+                "FARTEOLOGY FART"
+              ],
               "players": [
                 {
                   "name": "Tracy Mirkin"
