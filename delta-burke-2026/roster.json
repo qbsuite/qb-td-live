@@ -6,39 +6,87 @@
       "name": "Delta Burke 2026",
       "registrations": [
         {
-          "name": "Valencia A",
+          "name": "Valencia Red",
           "teams": [
             {
-              "name": "Valencia A",
+              "name": "Valencia Red",
+              "_formerNames": [
+                "Valencia A"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Keira Mackinnon",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Samantha Norman"
+                },
+                {
+                  "name": "Reyna Martinez"
+                },
+                {
+                  "name": "Heloisa Carneiro"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Valencia B",
+          "name": "Valencia Black",
           "teams": [
             {
-              "name": "Valencia B",
+              "name": "Valencia Black",
+              "_formerNames": [
+                "Valencia B"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Lexi David",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Mukta Bhuskute"
+                },
+                {
+                  "name": "Arianna Andujar"
+                },
+                {
+                  "name": "MiMi Saminou"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Valencia C",
+          "name": "Valencia Gold",
           "teams": [
             {
-              "name": "Valencia C",
+              "name": "Valencia Gold",
+              "_formerNames": [
+                "Valencia C"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Gavin Petersen",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Lani Drake"
+                },
+                {
+                  "name": "Nas Camacho"
+                },
+                {
+                  "name": "Toria Kelley"
+                },
+                {
+                  "name": "Franky Alvirez"
                 }
               ]
             }
@@ -51,55 +99,97 @@
               "name": "Chipola",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Jeremy Spurlock",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Rhett Bethea"
+                },
+                {
+                  "name": "Landen Bernier"
+                },
+                {
+                  "name": "Trent Watson"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Central Florida A",
+          "name": "Central Florida Aragorn",
           "teams": [
             {
-              "name": "Central Florida A",
+              "name": "Central Florida Aragorn",
               "_formerNames": [
-                "CF A"
+                "CF A",
+                "Central Florida A"
               ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Chanel Xie",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Nicholas Pini"
+                },
+                {
+                  "name": "Adrianna Gonzalez"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Central Florida B",
+          "name": "Central Florida Legolas",
           "teams": [
             {
-              "name": "Central Florida B",
+              "name": "Central Florida Legolas",
               "_formerNames": [
-                "CF B"
+                "CF B",
+                "Central Florida B"
               ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Maximus A. Kuykendall",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Benjamin Barner"
+                },
+                {
+                  "name": "Ryan San"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Central Florida C",
+          "name": "Central Florida Gimli",
           "teams": [
             {
-              "name": "Central Florida C",
+              "name": "Central Florida Gimli",
               "_formerNames": [
-                "Tallahassee"
+                "Tallahassee",
+                "Central Florida C"
               ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Sarah Levy",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Destiny Granger"
+                },
+                {
+                  "name": "Caspian Cameron"
                 }
               ]
             }
@@ -112,7 +202,19 @@
               "name": "Santa Fe A",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Isabela Caicedo",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "George Cloutier"
+                },
+                {
+                  "name": "Lakela DeAngelis"
+                },
+                {
+                  "name": "Lisa Ye"
                 }
               ]
             }
@@ -125,7 +227,19 @@
               "name": "Santa Fe B",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Eric Porter",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Kier Teves"
+                },
+                {
+                  "name": "Enzo Carrascosa"
+                },
+                {
+                  "name": "Henry Weber"
                 }
               ]
             }
@@ -138,7 +252,25 @@
               "name": "South Florida",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Nico Garcia",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Matthew Castillo"
+                },
+                {
+                  "name": "Thomas Ragnonesi"
+                },
+                {
+                  "name": "Sparrow Murray"
+                },
+                {
+                  "name": "Troy Decker"
+                },
+                {
+                  "name": "Jason Howe"
                 }
               ]
             }
@@ -151,59 +283,137 @@
               "name": "Lake Sumter",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Evan Turner",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Julie Moran"
+                },
+                {
+                  "name": "Aiden Torres"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Oak Ridge A",
+          "name": "Oak Ridge Green",
           "teams": [
             {
-              "name": "Oak Ridge A",
+              "name": "Oak Ridge Green",
+              "_formerNames": [
+                "Oak Ridge A"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Naomy Garcia",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Nyasia Peña"
+                },
+                {
+                  "name": "Brianna Bernard"
+                },
+                {
+                  "name": "Alyssa Andre"
+                },
+                {
+                  "name": "Caffnel Belgarde"
+                },
+                {
+                  "name": "Edrei Garcia"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Oak Ridge B",
+          "name": "Oak Ridge Gold",
           "teams": [
             {
-              "name": "Oak Ridge B",
+              "name": "Oak Ridge Gold",
+              "_formerNames": [
+                "Oak Ridge B"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Gianna Williams",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Liligoat Zuniga"
+                },
+                {
+                  "name": "Alyssa Mayfield"
+                },
+                {
+                  "name": "Khoo Akec"
+                },
+                {
+                  "name": "Amy Guerrero"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Pensacola A",
+          "name": "Pensacola Corsairs",
           "teams": [
             {
-              "name": "Pensacola A",
+              "name": "Pensacola Corsairs",
+              "_formerNames": [
+                "Pensacola A"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "JaCee Dortch",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Lydia Bowman"
+                },
+                {
+                  "name": "Jackie Watkins"
+                },
+                {
+                  "name": "Matthew Tiedemann"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Pensacola B",
+          "name": "Pensacola Pirates",
           "teams": [
             {
-              "name": "Pensacola B",
+              "name": "Pensacola Pirates",
+              "_formerNames": [
+                "Pensacola B"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Alexa Lundblade",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Matthew Jackson"
+                },
+                {
+                  "name": "Carly Strange"
+                },
+                {
+                  "name": "Ash Fabbro"
                 }
               ]
             }
@@ -216,7 +426,19 @@
               "name": "Broward A",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Lucas Blackburn",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Jayden Munoz"
+                },
+                {
+                  "name": "Angel Hernandez"
+                },
+                {
+                  "name": "Zachary Spring"
                 }
               ]
             }
@@ -229,7 +451,44 @@
               "name": "Broward B",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Gabriella Perez-Ortega",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Jose Micheal Luna"
+                },
+                {
+                  "name": "Khian Reid"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "name": "Broward C",
+          "teams": [
+            {
+              "name": "Broward C",
+              "_formerNames": [
+                "Indian River"
+              ],
+              "players": [
+                {
+                  "name": "Apple Ferrer-Devandas",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Hannah Hugh-Sam"
+                },
+                {
+                  "name": "Ari Preston"
+                },
+                {
+                  "name": "Daksh Jain"
                 }
               ]
             }
@@ -242,33 +501,69 @@
               "name": "Gateway",
               "players": [
                 {
-                  "name": "1"
+                  "name": "Bailiegh Griffis",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Logan Summers"
+                },
+                {
+                  "name": "Arra Hargraves"
+                },
+                {
+                  "name": "Hunter Marton"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Murray State A",
+          "name": "Murray State Gleam",
           "teams": [
             {
-              "name": "Murray State A",
+              "name": "Murray State Gleam",
+              "_formerNames": [
+                "Murray State A"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Keyton Tiger-Harjo",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Rhys Sumpter"
+                },
+                {
+                  "name": "William Day"
                 }
               ]
             }
           ]
         },
         {
-          "name": "Murray State B",
+          "name": "Murray State FLCR",
           "teams": [
             {
-              "name": "Murray State B",
+              "name": "Murray State FLCR",
+              "_formerNames": [
+                "Murray State B"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Rachel Prince",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Camrun Scott"
+                },
+                {
+                  "name": "Aidyn Boren"
                 }
               ]
             }
@@ -281,46 +576,81 @@
               "name": "Cottondale",
               "players": [
                 {
-                  "name": "1"
+                  "name": "John Ross Green",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Landon Pumphrey"
+                },
+                {
+                  "name": "Hunter Gough"
+                },
+                {
+                  "name": "Elijah Reynolds"
                 }
               ]
             }
           ]
         },
         {
-          "name": "FSCJ A",
+          "name": "FSCJ Orange",
           "teams": [
             {
-              "name": "FSCJ A",
+              "name": "FSCJ Orange",
+              "_formerNames": [
+                "FSCJ A"
+              ],
               "players": [
                 {
-                  "name": "1"
+                  "name": "Lillian Hernandez",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
+                {
+                  "name": "Isabel Nix"
+                },
+                {
+                  "name": "Noah Mauer"
+                },
+                {
+                  "name": "Zierna Garcia"
+                },
+                {
+                  "name": "Jonah Terrebonne"
                 }
               ]
             }
           ]
         },
         {
-          "name": "FSCJ B",
+          "name": "FSCJ Blue",
           "teams": [
             {
-              "name": "FSCJ B",
+              "name": "FSCJ Blue",
+              "_formerNames": [
+                "FSCJ B"
+              ],
               "players": [
                 {
-                  "name": "1"
-                }
-              ]
-            }
-          ]
-        },
-        {
-          "name": "Indian River",
-          "teams": [
-            {
-              "name": "Indian River",
-              "players": [
+                  "name": "Jacqueline Gray",
+                  "_formerNames": [
+                    "1"
+                  ]
+                },
                 {
-                  "name": "1"
+                  "name": "Tara Fisher"
+                },
+                {
+                  "name": "Rebecca Elie"
+                },
+                {
+                  "name": "Zoa Chua"
+                },
+                {
+                  "name": "Dharma Wade"
                 }
               ]
             }
